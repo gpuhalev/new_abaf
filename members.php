@@ -228,7 +228,7 @@
                 
                 <div class="pic">
                 	<div class="picleft">
-	                	<img src="images/members/fyrom_flag.jpg">
+	                	<a href="http://www.afm.org.mk/mk/" target="_blank"><img src="images/members/fyrom_flag.jpg"></a>
     	                <div class="desc">FYRO Macedonia</div>
                     </div>
                     <div class="picright">
@@ -249,158 +249,156 @@
                     </div>
 				</div>
                 
-                <a href="#"><div class="pic">
+                <div class="pic">
                 	<div class="picleft">
-                    	Bulgarian Athletic Federation<br>
-                        75 Vassil Levski Blvd.<br>
-                        1040 Sofia, Bulgaria<br>
+                    	Federatia de Atletism<br>din Republica Moldova<br>
+                        of.309, Ismail str. 58/1<br>
+                        Chisinau MD2001<br>Republic of Moldova<br>
                         <br />
-                        President: Dobromir KARAMARINOV<br>
-                        General Secretariy: Galia PUHALEVA<br>
+                        President:<br>&emsp;Anatolie BALAN<br>
+                        General Secretary:<br>&emsp;Constantin NEGURA<br>
+                        International Secretary:<br>&emsp;Serghei DONETS<br>
                         <br>
-                        Tel: (359 2) 988 54 62 (President)<br>
-                        Tel: (359 2) 930 06 69; 930 06 31<br>
-                        Fax: (359 2) 988 07 14<br>
-                        Mobile: (359 88) 8566603 (G.S.)<br>
-                        E-mail: bulathletics@bfla.org<br>
-                        E-mail: bulathletic@mail.bg<br>
-                        E-mail: galia@bulathletics.info<br>
-                        E-mail: bul@mf.iaaf.org<br>
+                        Tel: (373 22) 278 300/1<br>
+                        Mobile: (373) 691 04 101<br>
+                        Mobile: (373) 792 63 560<br>
+                        Mobile: (373) 692 01 943<br>
+                        Fax: (373 22) 278 300<br>
+                        E-mail: atletism_mda@mdl.net<br>
+                        E-mail: mda@mf.iaaf.org<br>
+                        E-mail: serdon58@yahoo.com<br>
                         <br>
                         <strong>Anthem:</strong><br>
-                        <a href="files/memberAnthems/hymne_bul.mp3" target="_blank">Download (mp3)</a>
+                        <a href="files/memberAnthems/hymne_mda.mp3" target="_blank">Download (mp3)</a>
                     </div>
                     <div class="picright">
-    	            	<img src="images/members/mda_flag.jpg">
+    	            	<a href="http://fam.com.md/" target="_blank"><img src="images/members/mda_flag.jpg"></a>
 	                    <div class="desc">Moldova</div>
                     </div>
-				</div></a>
+				</div>
                 
-                <a href="#"><div class="pic">
+                <div class="pic">
                 	<div class="picleft">
     	            	<img src="images/members/mne_flag.jpg">
 	                    <div class="desc">Montenegro</div>
                     </div>
                     <div class="picright">
-                    	Athletic Federation of<br>Bosnia and Herzegovina<br>
-                        Mis Irbina 10<br>
-                        71000 Sarajevo,<br>Bosnia and Herzegovina<br>
+                    	Athletics Federation of Montenegro<br>
+                        ul. 19 Decembar br. 21<br>
+                        81000 Podgorica, Montenegro<br>
                         <br />
-                        President: Suad KAKNJO<br>
-                        General Secretary: Milan PEDALO<br>
+                        President: Milorad VULETIC<br>
+                        General Secretary: Milan MADZGALJ<br>
                         <br>
-                        Tel: (387 33) 44 58 89<br>
-                        Fax: (387 33) 44 58 90<br>
-                        Mobile: (387 61) 39 87 94 (G.S.)<br>
-                        E-mail: asbih@bih.net.ba<br>
-                        E-mail: bih@mf.iaaf.org<br>
+                        Phone/Fax: (382 20) 206 690<br>
+                        E-mail: ascg@t-com.me<br>
                         <br>
                         <strong>Anthem:</strong><br>
-                        <a href="files/memberAnthems/hymne_bih.mp3" target="_blank">Download (mp3)</a>
+                        <a href="files/memberAnthems/hymne_mne.mp3" target="_blank">Download (mp3)</a>
                     </div>
-				</div></a>
+				</div>
                 
-                <a href="#"><div class="pic">
+                <div class="pic">
                 	<div class="picleft">
-                    	Bulgarian Athletic Federation<br>
-                        75 Vassil Levski Blvd.<br>
-                        1040 Sofia, Bulgaria<br>
+                    	Romanian Athletic Federation<br>
+                        2 Primo Nebiolo St.<br>
+                        011349 Bucharest, Romania<br>
                         <br />
-                        President: Dobromir KARAMARINOV<br>
-                        General Secretariy: Galia PUHALEVA<br>
+                        President: Ion SANDU<br>
+                        General Secretary: Florin FLOREA<br>
                         <br>
-                        Tel: (359 2) 988 54 62 (President)<br>
-                        Tel: (359 2) 930 06 69; 930 06 31<br>
-                        Fax: (359 2) 988 07 14<br>
-                        Mobile: (359 88) 8566603 (G.S.)<br>
-                        E-mail: bulathletics@bfla.org<br>
-                        E-mail: bulathletic@mail.bg<br>
-                        E-mail: galia@bulathletics.info<br>
-                        E-mail: bul@mf.iaaf.org<br>
+                        Tel: (40 21) 319 24 45 (Office)<br>
+                        Tel: (40 21) 319 24 46 (Office)<br>
+                        Tel: (40 21) 319 24 47 (Pres.)<br>
+                        Fax: (40 21) 319 24 43 (Int. Rel.)<br>
+                        Fax: (373 22) 278 300<br>
+                        E-mail: sorin@fra.ro (President)<br>
+                        E-mail: nana@fra.ro (Gen. Sec.)<br>
+                        E-mail: traian@fra.ro (Int. Rel.)<br>
                         <br>
                         <strong>Anthem:</strong><br>
-                        <a href="files/memberAnthems/hymne_bul.mp3" target="_blank">Download (mp3)</a>
+                        <a href="files/memberAnthems/hymne_rou.mp3" target="_blank">Download (mp3)</a>
                     </div>
                     <div class="picright">
-    	            	<img src="images/members/rou_flag.jpg">
+    	            	<a href="http://www.fra.ro/" target="_blank"><img src="images/members/rou_flag.jpg"></a>
 	                    <div class="desc">Romania</div>
                     </div>
-				</div></a>
+				</div>
                 
-                <a href="#"><div class="pic">
+                <div class="pic">
                 	<div class="picleft">
-    	            	<img src="images/members/srb_flag.jpg">
+    	            	<a href="http://www.ass.org.rs/" target="_blank"><img src="images/members/srb_flag.jpg"></a>
 	                    <div class="desc">Serbia</div>
                     </div>
                     <div class="picright">
-                    	Athletic Federation of<br>Bosnia and Herzegovina<br>
-                        Mis Irbina 10<br>
-                        71000 Sarajevo,<br>Bosnia and Herzegovina<br>
+                    	Athletics Federation of Serbia<br>
+                        Strahinjica Bana 73a<br>
+                        11000 Beograd, Serbia<br>
                         <br />
-                        President: Suad KAKNJO<br>
-                        General Secretary: Milan PEDALO<br>
+                        President:<br>Veselin JEVROSIMOVIC<br>
+                        General Secretary:<br>Slobodan BRANKOVIC<br>
                         <br>
-                        Tel: (387 33) 44 58 89<br>
-                        Fax: (387 33) 44 58 90<br>
-                        Mobile: (387 61) 39 87 94 (G.S.)<br>
-                        E-mail: asbih@bih.net.ba<br>
-                        E-mail: bih@mf.iaaf.org<br>
+                        Tel: (381 11) 2625 088<br>
+                        Tel: (381 11) 2626 876<br>
+                        Tel: (381 11) 2629 777<br>
+                        Fax: (381 11) 2627 371<br>
+                        Mobile: (381 64) 640 11 31 (G.S.)<br>
+                        E-mail: asj@Eunet.rs<br>
+                        E-mail: boban45@beotel.net<br>
                         <br>
                         <strong>Anthem:</strong><br>
-                        <a href="files/memberAnthems/hymne_bih.mp3" target="_blank">Download (mp3)</a>
+                        <a href="files/memberAnthems/hymne_srb.mp3" target="_blank">Download (mp3)</a>
                     </div>
-				</div></a>
+				</div>
                 
-                <a href="#"><div class="pic">
+                <div class="pic">
                 	<div class="picleft">
-                    	Bulgarian Athletic Federation<br>
-                        75 Vassil Levski Blvd.<br>
-                        1040 Sofia, Bulgaria<br>
+                    	Slovenian Athletic Federation<br>
+                        Letaliska Cesta 33-C<br>
+                        1122 Ljubljana, Slovenia<br>
                         <br />
-                        President: Dobromir KARAMARINOV<br>
-                        General Secretariy: Galia PUHALEVA<br>
+                        President: Gregor BENCINA<br>
+                        Secretary: Luka STEINER<br>
                         <br>
-                        Tel: (359 2) 988 54 62 (President)<br>
-                        Tel: (359 2) 930 06 69; 930 06 31<br>
-                        Fax: (359 2) 988 07 14<br>
-                        Mobile: (359 88) 8566603 (G.S.)<br>
-                        E-mail: bulathletics@bfla.org<br>
-                        E-mail: bulathletic@mail.bg<br>
-                        E-mail: galia@bulathletics.info<br>
-                        E-mail: bul@mf.iaaf.org<br>
+                        Tel: (386 1) 520 69 14 (Int. Dept.)<br>
+                        Fax: (386 1) 520 69 16<br>
+                        E-mail: info@atletska-zveza.si<br>
+                        E-mail: luka.steiner@atletska-zveza.si<br>
+                        E-mail: davor.damjanic@atletska-zveza.si<br>
                         <br>
                         <strong>Anthem:</strong><br>
-                        <a href="files/memberAnthems/hymne_bul.mp3" target="_blank">Download (mp3)</a>
+                        <a href="files/memberAnthems/hymne_slo.mp3" target="_blank">Download (mp3)</a>
                     </div>
                     <div class="picright">
-	                	<img src="images/members/slo_flag.jpg">
+	                	<a href="http://www.atletska-zveza.si/" target="_blank"><img src="images/members/slo_flag.jpg"></a>
     	                <div class="desc">Slovenia</div>
                     </div>
-				</div></a>
+				</div>
                 
-                <a href="#"><div class="pic">
+                <div class="pic">
                 	<div class="picleft">
-    	            	<img src="images/members/tur_flag.jpg">
+    	            	<a href="http://www.taf.org.tr/" target="_blank"><img src="images/members/tur_flag.jpg"></a>
 	                    <div class="desc">Turkey</div>
                     </div>
                     <div class="picright">
-                    	Athletic Federation of<br>Bosnia and Herzegovina<br>
-                        Mis Irbina 10<br>
-                        71000 Sarajevo,<br>Bosnia and Herzegovina<br>
+                    	Turkiye Atletizm Federasyonu<br>
+                        19 Mayis Spor Kompleksi Naili<br>
+                        Moran Atletizm Tesisi Gar Ulus<br>
+                        Ankara, Turkey<br>
                         <br />
-                        President: Suad KAKNJO<br>
-                        General Secretary: Milan PEDALO<br>
+                        President: Fatih &#199;INTIMAR<br>
+                        General Secretary: Fahrettin YILDIZ<br>
                         <br>
-                        Tel: (387 33) 44 58 89<br>
-                        Fax: (387 33) 44 58 90<br>
-                        Mobile: (387 61) 39 87 94 (G.S.)<br>
-                        E-mail: asbih@bih.net.ba<br>
-                        E-mail: bih@mf.iaaf.org<br>
+                        Tel: (90 312) 310 76 52<br>
+                        Tel: (90 312) 309 01 89<br>
+                        Fax: (90 312) 310 77 06<br>
+                        E-mail: atletizmtr@yahoo.com<br>
+                        E-mail: atletizm25@gmail.com<br>
                         <br>
                         <strong>Anthem:</strong><br>
-                        <a href="files/memberAnthems/hymne_bih.mp3" target="_blank">Download (mp3)</a>
+                        <a href="files/memberAnthems/hymne_tur.mp3" target="_blank">Download (mp3)</a>
                     </div>
-				</div></a>
+				</div>
             </div>
                 </div>
                 <!--END CONTENT WRAPPER-->
