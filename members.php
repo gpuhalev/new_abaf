@@ -160,12 +160,12 @@
                 
                <div class="pic">
                 	<div class="picleft">
-                    	The Amateur Athletic Association of Cyprus<br>
+                    	The Amateur Athletic<br>Association of Cyprus<br>
                         21 Anfipoleos Str. 102-112<br>
                         2025 Strovolos, Nicosia<br>
                         <br />
-                        President: Antonios G. DRACOS<br>
-                        General Secretary: Pericles A. MARKARIS<br>
+                        President: Antonios G. DRACOS<br>&emsp;General Secretary:<br>
+                        Pericles A. MARKARIS<br>
                         <br>
                         Tel: (357) 22 449 825<br>
                         Fax: (357) 22 449 826<br>
@@ -180,80 +180,74 @@
                     </div>
 				</div>
                  
-                <a href="#"><div class="pic">
+                <div class="pic">
                 	<div class="picleft">
-    	            	<img src="images/members/geo_flag.jpg">
+    	            	<a href="http://www.geoathletics.ge/" target="_blank"><img src="images/members/geo_flag.jpg"></a>
 	                    <div class="desc">Georgia</div>
                     </div>
                     <div class="picright">
-                    	Athletic Federation of<br>Bosnia and Herzegovina<br>
-                        Mis Irbina 10<br>
-                        71000 Sarajevo,<br>Bosnia and Herzegovina<br>
+                    	Athletic Federation of Georgia<br>
+                       21 Chavchavadze av 49b<br>
+                        0162 Tbilisi, Georgia<br>
                         <br />
-                        President: Suad KAKNJO<br>
-                        General Secretary: Milan PEDALO<br>
+                        President: Ambrosi MATIASHVILI<br>
+                        General Secretary: Alexander JAPARIDZE<br>
                         <br>
-                        Tel: (387 33) 44 58 89<br>
-                        Fax: (387 33) 44 58 90<br>
-                        Mobile: (387 61) 39 87 94 (G.S.)<br>
-                        E-mail: asbih@bih.net.ba<br>
-                        E-mail: bih@mf.iaaf.org<br>
+                        Tel: (995 32) 235 61 76<br>
+                        E-mail: info@geoathletics.ge<br>
+                        E-mail: geoathletics@yahoo.com<br>
                         <br>
                         <strong>Anthem:</strong><br>
-                        <a href="files/memberAnthems/hymne_bih.mp3" target="_blank">Download (mp3)</a>
+                        <a href="files/memberAnthems/hymne_geo.mp3" target="_blank">Download (mp3)</a>
                     </div>
-                </div></a>
+                </div>
                 
-                <a href="#"><div class="pic">
+                <div class="pic">
                 	<div class="picleft">
-                    	Bulgarian Athletic Federation<br>
-                        75 Vassil Levski Blvd.<br>
-                        1040 Sofia, Bulgaria<br>
+                    	Association Hellenique<br>d'Athl&#233;tisme Amateur (SEGAS)<span style="display:none">'</span><br>
+                        137 Avenue Syngrou<br>
+                        Athens 17121, Greece<br>
                         <br />
-                        President: Dobromir KARAMARINOV<br>
-                        General Secretariy: Galia PUHALEVA<br>
+                        President:<br>&emsp;Konstantinos PANAGOPOULOS<br>
+                        General Secretary:<br>&emsp;Vassilios SEVASTIS<br>
                         <br>
-                        Tel: (359 2) 988 54 62 (President)<br>
-                        Tel: (359 2) 930 06 69; 930 06 31<br>
-                        Fax: (359 2) 988 07 14<br>
-                        Mobile: (359 88) 8566603 (G.S.)<br>
-                        E-mail: bulathletics@bfla.org<br>
-                        E-mail: bulathletic@mail.bg<br>
-                        E-mail: galia@bulathletics.info<br>
-                        E-mail: bul@mf.iaaf.org<br>
+                        Tel : (302 10) 9 35 85 90<br>
+                        Tel : (302 10) 9 35 85 92<br>
+                        Fax : (302 10) 9 34 29 80<br>
+                        E-mail: president@segas.gr (President)<br>
+                        E-mail: internationalrelations@segas.gr<br>
                         <br>
                         <strong>Anthem:</strong><br>
-                        <a href="files/memberAnthems/hymne_bul.mp3" target="_blank">Download (mp3)</a>
+                        <a href="files/memberAnthems/hymne_gre.mp3" target="_blank">Download (mp3)</a>
                     </div>
                     <div class="picright">
-    	            	<img src="images/members/gre_flag.jpg">
+    	            	<a href="http://www.segas.gr/" target="_blank"><img src="images/members/gre_flag.jpg"></a>
 	                    <div class="desc">Greece</div>
                     </div>
-				</div></a>
+				</div>
                 
-                <a href="#"><div class="pic">
+                <div class="pic">
                 	<div class="picleft">
 	                	<img src="images/members/fyrom_flag.jpg">
     	                <div class="desc">FYRO Macedonia</div>
                     </div>
                     <div class="picright">
-                    	Athletic Federation of<br>Bosnia and Herzegovina<br>
-                        Mis Irbina 10<br>
-                        71000 Sarajevo,<br>Bosnia and Herzegovina<br>
+                    	Atletska Federacija na Makedonija<br>
+                        Sala KK "Rabotnicki"<br>
+                        Gradski Park, Pos Fah 5<br>
+                        1000 Skopje, Macedonia<br>
                         <br />
-                        President: Suad KAKNJO<br>
-                        General Secretary: Milan PEDALO<br>
+                        President: Krsto SERAFIMOVSKI<br>
+                        General Secretary: Dejan ANGELOVSKI<br>
                         <br>
-                        Tel: (387 33) 44 58 89<br>
-                        Fax: (387 33) 44 58 90<br>
-                        Mobile: (387 61) 39 87 94 (G.S.)<br>
-                        E-mail: asbih@bih.net.ba<br>
-                        E-mail: bih@mf.iaaf.org<br>
+                        Tel/Fax: (389 2) 313 13 25<br>
+                        E-mail: mkd@mf.iaaf.org<br>
+                        E-mail: afm@mt.net.mk<br>
                         <br>
                         <strong>Anthem:</strong><br>
-                        <a href="files/memberAnthems/hymne_bih.mp3" target="_blank">Download (mp3)</a>
+                        <a href="files/memberAnthems/hymne_mkd.mp3" target="_blank">Download (mp3)</a>
                     </div>
-				</div></a>
+				</div>
                 
                 <a href="#"><div class="pic">
                 	<div class="picleft">
