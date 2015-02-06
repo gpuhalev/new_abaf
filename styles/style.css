@@ -120,11 +120,19 @@ a{
 		}
 		
 		p.content_title{
-				color: #0DB10F;
-				font-size:17px;
-				text-align:left;
-				font-weight:bold;
-				overflow:hidden;
+			color: #0DB10F;
+			font-size:17px;
+			text-align:left;
+			font-weight:bold;
+			overflow:hidden;
+		}
+		
+		p.content_smallTitle{
+			color: #0DB10F;
+			font-size:15px;
+			text-align:left;
+			font-weight:bold;
+			overflow:hidden;
 		}
 		
 		.newsMain p{
@@ -350,11 +358,11 @@ a{
 /*END POSITIONING*/
 
 /*START OTHER*/
-	.grayOutlineRoundedCV{
+
+	.grayOutlineRoundedCV, .grayOutlineRounded{
 		border:1px solid #aaa;
 		border-radius:5px;
 		padding:5px;
-		display:block;
 		margin-bottom:5px;
 	}
 	
