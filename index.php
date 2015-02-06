@@ -47,7 +47,7 @@
                         </div>
                     
                         
-                    <br /><img border="0" height="31" src="http://www.balkan-athletics.eu/banka-index-480-30.jpg" width="450"><br /><br />
+                    <br /><img border="0" height="31" src="http://www.balkan-athletics.eu/images/banka-index-480-30.jpg" width="450"><br /><br />
                     <div class="grayOutlineRounded">
 	                    <p class="content_title">Gabriela Szabo is the new Minister of Youth and Sport of Romania</p>
 					
