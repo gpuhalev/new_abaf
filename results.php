@@ -35,6 +35,17 @@
                 	<p class="content_mainTitle">Results</p>
                     <hr width="40%" color="#0DB10F" size="1px"><br>
                		<p class="content_title">Coming soon...</p>
+                    <?php
+						$iterator = new RecursiveIteratorIterator(
+										new RecursiveDirectoryIterator('./results/'), RecursiveDirectoryIterator::SKIP_DOTS);
+						
+						foreach($iterator as $file) {
+							if($file->isDir()) {
+								echo "$file <br>";
+								//echo strtoupper($file->getRealpath()), PHP_EOL;
+							}
+						}
+											?>
                 </div>
                 <!--END CONTENT WRAPPER-->
                     
