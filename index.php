@@ -35,7 +35,7 @@
 	                <p class="content_mainTitle">Official News</p>
                     <hr width="40%" color="#0DB10F" size="1px"><br>
                     
-               		
+               		<div class="grayOutlineRounded">
 	                    <p class="content_title"><a href="2015/istanbul2015.php" style="text-decoration:none;">21 February 2015 - Balkan Indoor Championships<br />Istanbul</a></p>
 					
                         <div class="newsMain">
@@ -43,9 +43,9 @@
                             <p><a href="2015/pdf/BICH2015-Invitation.pdf" style="color:black" target="_blank">Invitation</a></p>
                             <p><a href="2015/pdf/FEF_BalkanIndoor2015.xls" style="color:black">FEF</a></p>
                             
-                            <p><a href="2015/pdf/hotel_mapBICH2015.jpg" style="color:black"target="_blank">Hotel map<br><img src="2015/pdf/hotel_mapBICH2015.jpg" /></a></p>
+                            <p><a href="2015/pdf/hotel_mapBICH2015.jpg" style="color:black"target="_blank">Hotel map<br></a></p>
                         </div>
-                    
+                    </div>
                         
                     <br /><img border="0" height="31" src="http://www.balkan-athletics.eu/images/banka-index-480-30.jpg" width="450"><br /><br />
                     <div class="grayOutlineRounded">

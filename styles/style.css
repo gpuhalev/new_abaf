@@ -14,7 +14,7 @@ div {
 	display: block;
 }
 a{
-	color:#0DB10F;
+	color:#008B02;
 }
 
 /*MAIN PART*/
@@ -47,6 +47,7 @@ a{
 				height: 200px;	
 				float:left;
 				position:relative;
+				cursor:pointer;
 			}
 
 	#left_sidebar {
@@ -83,7 +84,7 @@ a{
 			}
 		
 			p.lefty{
-				color: #0DB10F;
+				color: #008B02;
 				text-align:center;
 				font-weight:bold;
 			}
@@ -112,7 +113,7 @@ a{
 		.content_wrapper{padding:7px; box-shadow: 0 0px 4px  gray inset;}
 		
 		p.content_mainTitle{
-			color: #0DB10F;
+			color: #008B02;
 			font-size:22px;
 			text-align:center;
 			font-weight:bold;
@@ -120,7 +121,7 @@ a{
 		}
 		
 		p.content_title{
-			color: #0DB10F;
+			color: #008B02;
 			font-size:17px;
 			text-align:left;
 			font-weight:bold;
@@ -128,7 +129,7 @@ a{
 		}
 		
 		p.content_smallTitle{
-			color: #0DB10F;
+			color: #008B02;
 			font-size:15px;
 			text-align:left;
 			font-weight:bold;
@@ -153,14 +154,27 @@ a{
 		background: white;
 		box-shadow: 0 0px 4px  gray inset;
 		position: static;
+		margin-bottom:250px;
 	} 
 	
 	/*START RIGHT SIDEBAR _ RELATED*/
 		.title_text{
 			font-size:18px;
-			color: #0DB10F;
+			color: #008B02;
 			font-weight:bold;
 			padding:10px 10px 0px 10px;
+		}
+		
+		.sub_title_text{
+			font-size:15px;
+			color: #008B02;
+			font-weight:bold;
+			padding:0 10px 0px 15px;
+			cursor:pointer;
+		}
+		
+		.hiddenRightMenu{
+			display:none;
 		}
 		
 		.ul_box{
@@ -193,7 +207,6 @@ a{
 		height: 50px;
 		padding: 0;
 		border: 0;
-		margin-top:1170px;
 		float: center;
 		background: white;
 		box-shadow: 0 0px 4px  grey inset;
@@ -232,7 +245,8 @@ a{
 		text-decoration: none;
 		text-align: center;
 		font-weight:bold;
-		box-shadow: 0 0 20px rgba(0,0,0,0.1) inset;
+		box-shadow: 5px 5px 20px rgba(0,0,0,0.1) inset;
+		padding:2px 0;
 	}
 	
 	.nav a:hover
@@ -247,19 +261,18 @@ a{
 		padding: 0px;
 		list-style-type: none;
 		height:19px;
-		
 	}
 	
 	.nav li{
 		float: left;
 		margin-right: 2px;
-		height:19px;
 		display: block;
 		width: 98px;
 		text-align: center;
 		color:white;
 		box-shadow: 0 0 20px rgba(0,0,0,0.7) inset;
 		background-color: #cccccc;
+		padding:2px 0;
 	}
 	
 	.nav ul ul{
@@ -279,7 +292,8 @@ a{
 		position: relative; 
 		float: right;
 		width: 700px; 
-		height: 180px;
+		height: 172px;
+		cursor:pointer;
 	}
 	
 	#slideshow > div { 
@@ -302,7 +316,7 @@ a{
 	#members .pic{
 		margin-bottom:2px;
 		padding: 3px;
-		border: 1px solid #0DB10F;
+		border: 1px solid #008B02;
 		height: auto;
 		width: 95%;
 		float: left;
@@ -382,7 +396,7 @@ a{
 	}
 	
 	p.green_13{
-		color:#0DB10F;
+		color:#008B02;
 		font-size:13px;
 		font-weight:bold;
 	}
