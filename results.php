@@ -1,4 +1,20 @@
 	<?php include 'menus/mainHeader.html'?>
+    <script src="http://www.balkan-athletics.eu/scripts/slideshowFunc.js"></script>
+    <script src="./scripts/FileTree/jquery.easing.js" type="text/javascript"></script>
+    <script src="./scripts/FileTree/jqueryFileTree.js" type="text/javascript"></script>
+    <link href="./scripts/FileTree/jqueryFileTree.css" rel="stylesheet" type="text/css" media="screen">
+    <script type="text/javascript">
+			$(document).ready( function() {
+				$('#fileTreeContainer').fileTree({
+					root: '/results/',
+					script: './scrripts/FileTree/jqueryFileTree.asp',
+					expandSpeed: 1000,
+					collapseSpeed: 1000
+				}, function(file) {
+					alert(file);
+				});
+			});
+		</script>
     <title>RESULTS | BALKAN ATHLETICS OFFICIAL WEBSITE</title>
 </head>
 
@@ -34,18 +50,10 @@
             	<div class="content_wrapper">
                 	<p class="content_mainTitle">Results</p>
                     <hr width="40%" color="#0DB10F" size="1px"><br>
-               		<p class="content_title">Coming soon...</p>
-                    <?php
-						$iterator = new RecursiveIteratorIterator(
-										new RecursiveDirectoryIterator('./results/'), RecursiveDirectoryIterator::SKIP_DOTS);
-						
-						foreach($iterator as $file) {
-							if($file->isDir()) {
-								echo "$file <br>";
-								//echo strtoupper($file->getRealpath()), PHP_EOL;
-							}
-						}
-											?>
+                    
+					<div id="fileTreeContainer" style="display:block; float:left;">
+                    
+                    </div>
                 </div>
                 <!--END CONTENT WRAPPER-->
                     
