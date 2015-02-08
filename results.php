@@ -1,20 +1,6 @@
 	<?php include 'menus/mainHeader.html'?>
-    <script src="http://www.balkan-athletics.eu/scripts/slideshowFunc.js"></script>
-    <script src="./scripts/FileTree/jquery.easing.js" type="text/javascript"></script>
-    <script src="./scripts/FileTree/jqueryFileTree.js" type="text/javascript"></script>
-    <link href="./scripts/FileTree/jqueryFileTree.css" rel="stylesheet" type="text/css" media="screen">
-    <script type="text/javascript">
-			$(document).ready( function() {
-				$('#fileTreeContainer').fileTree({
-					root: '/results/',
-					script: './scrripts/FileTree/jqueryFileTree.asp',
-					expandSpeed: 1000,
-					collapseSpeed: 1000
-				}, function(file) {
-					alert(file);
-				});
-			});
-		</script>
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <link href="dist/css/file-tree.min.css" rel="stylesheet">
     <title>RESULTS | BALKAN ATHLETICS OFFICIAL WEBSITE</title>
 </head>
 
@@ -50,10 +36,7 @@
             	<div class="content_wrapper">
                 	<p class="content_mainTitle">Results</p>
                     <hr width="40%" color="#0DB10F" size="1px"><br>
-                    
-					<div id="fileTreeContainer" style="display:block; float:left;">
-                    
-                    </div>
+                    <div id="demo"></div>
                 </div>
                 <!--END CONTENT WRAPPER-->
                     
@@ -75,6 +58,11 @@
 
 
 
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script> 
+<script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script> 
+<script src="dist/js/file-tree.min.js"></script>
+<script src="nestedSortable/jquery.mjs.nestedSortable.js"></script>
 
 </body>
 </html>
