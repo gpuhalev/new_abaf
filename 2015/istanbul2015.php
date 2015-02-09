@@ -40,7 +40,7 @@
                             <p><a href="pdf/BICH2015-Invitation.pdf" style="color:black" target="_blank">Invitation</a></p>
                             <p><a href="pdf/FEF_BalkanIndoor2015.xls" style="color:black">FEF</a></p>
                             
-                            <p><a href="pdf/hotel_mapBICH2015.jpg" style="color:black"target="_blank">Hotel map<br><img src="pdf/hotel_mapBICH2015.jpg" /></a></p>
+                            <p><a href="http://hiltongardeninn3.hilton.com/en/hotels/turkey/hilton-garden-inn-istanbul-airport-ISTIAGI/maps-directions/index.html" style="color:black"target="_blank">Hotel (Teams)<br></a><br><img src="images/Istanbul Indoor Atakoy 1.jpg" /><br><img src="images/Istanbul Indoor Atakoy 2.jpg" /><br><img src="images/Istanbul Indoor Atakoy 3.jpg" /></p>
                     </div>
                 </div>
                 <!--END CONTENT WRAPPER-->
