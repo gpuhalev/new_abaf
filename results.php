@@ -1,7 +1,12 @@
-	<?php include 'menus/mainHeader.html'?>
-    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
-    <link href="dist/css/file-tree.min.css" rel="stylesheet">
+	<?php 
+		include 'menus/mainHeader.html';
+		include ("./scripts/phpFileTree/php_file_tree.php");
+	?>
+
     <title>RESULTS | BALKAN ATHLETICS OFFICIAL WEBSITE</title>
+    <script src="./scripts/phpFileTree/jquery-1.3.2" type="text/javascript"></script>
+	<script src="./scripts/phpFileTree/php_file_tree_jquery.js" type="text/javascript"></script>
+    <link href="./scripts/phpFileTree/styles/default/default.css" rel="stylesheet" type="text/css" media="screen">
 </head>
 
 <body>
@@ -36,7 +41,7 @@
             	<div class="content_wrapper">
                 	<p class="content_mainTitle">Results</p>
                     <hr width="40%" color="#0DB10F" size="1px"><br>
-                    <div id="demo"></div>
+                    <div id="resultsMain"><?php echo php_file_tree("./results/", "[link]");?></div>
                 </div>
                 <!--END CONTENT WRAPPER-->
                     
@@ -60,9 +65,7 @@
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
 <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script> 
-<script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script> 
-<script src="dist/js/file-tree.min.js"></script>
-<script src="nestedSortable/jquery.mjs.nestedSortable.js"></script>
+<script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
 
 </body>
 </html>
