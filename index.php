@@ -1,5 +1,11 @@
-	<?php include 'menus/mainHeader.html'?>
+	<?php 
+		include 'menus/mainHeader.html';
+		include ("./scripts/phpFileTree/php_file_tree.php");
+	?>
     <title>HOME | BALKAN ATHLETICS OFFICIAL WEBSITE</title>
+    <script src="./scripts/phpFileTree/jquery-1.3.2" type="text/javascript"></script>
+	<script src="./scripts/phpFileTree/php_file_tree_jquery.js" type="text/javascript"></script>
+    <link href="./scripts/phpFileTree/styles/default/default.css" rel="stylesheet" type="text/css" media="screen">
 </head>
 
 <body>
@@ -32,13 +38,25 @@
             <!--START CONTENT WRAPPER -->
             <div id="content">
             	<div class="content_wrapper">
-	                <p class="content_mainTitle">Official News</p>
+	                <p class="content_mainTitle">News</p>
                     <hr width="40%" color="#0DB10F" size="1px"><br>
+
+
+
+                   <div class="grayOutlineRounded">
+	           
+ <p class="content_title"><a style="text-decoration:none;">Full results from the 20th Balkan Indoor Championships Istanbul 2015</a></p>      
+ 					<div id="resultsMain"><?php echo php_file_tree("./results/Balkan Indoor Championships/20th Balkan Indoor Championships 2015 Istanbul, TUR", "[link]");?></div>
+ 					</div>
                     
-                    <div class="grayOutlineRounded">
-	                    <p class="content_title"><a href="2015/istanbul2015.php" style="text-decoration:none;">21 February 2015 - Balkan Indoor Championships<br />will be broadcasted live</a></p>
+      				<br /><img border="0" height="31" src="http://www.balkan-athletics.eu/images/banka-index-480-30.jpg" width="450"><br /><br />
+
+					<div class="grayOutlineRounded">
+<p class="content_title"><a href="2015/istanbul2015.php" style="text-decoration:none;">21 February 2015 - Balkan Indoor Championships<br />will be broadcasted live</a></p>
 					
                         <div class="newsMain">
+                        	<p><strong>YouTube Channel</strong><br><a href="https://www.youtube.com/channel/UC6mGWkXiLSB6RSQR2RTANVQ" target="_blank">https://www.youtube.com/channel/UC6mGWkXiLSB6RSQR2RTANVQ</a>
+                        
                             <p><strong>Shot Put Sector</strong><br><a href="http://turkiyeatletizmfederasyonu.web.tv/program/gulle-atma" target="_blank">http://turkiyeatletizmfederasyonu.web.tv/program/gulle-atma</a>
 
 							<p><strong>Running race</strong><br><a href="http://turkiyeatletizmfederasyonu.web.tv/program/gulle-atma" target="_blank">http://turkiyeatletizmfederasyonu.web.tv/program/gulle-atma</a></p>
@@ -66,6 +84,27 @@ http://turkiyeatletizmfederasyonu.web.tv/program/yuksek-atlama</a></p>
                             
                             <p><a href="http://hiltongardeninn3.hilton.com/en/hotels/turkey/hilton-garden-inn-istanbul-airport-ISTIAGI/maps-directions/index.html" style="color:black"target="_blank">Hotel (Teams)<br></a><br><img src="2015/images/Istanbul Indoor Atakoy 3.jpg" /></p>
                         </div>
+
+
+
+                    
+                    
+                    <div class="grayOutlineRounded">
+	                    <p class="content_title"><a href="2015/ayvalik2015.php" style="text-decoration:none;">18 April - Balkan Race Walking Championships<br>Ayvalik</a></p>
+					
+                        <div class="newsMain">
+                    	
+                        <p><a href="2015/pdf/Invitation_BRWCH2015.pdf" style="color:black" target="_blank">Invitation</a></p>
+                        <p><a href="2015/pdf/PEF_BRWCH2015.pdf" style="color:black" target="_blank">Preliminary Entry Form</a></p>
+                        <p><a href="2015/pdf/FinalEntry_BRWCH2015.pdf" style="color:black" target="_blank">Final Entry Form</a></p>
+                        <p><a href="2015/pdf/Balkan RW-Program.pdf" style="color:black" target="_blank">Official Programme</a></p>
+                        <p> We kindly ask you to return the Preliminary Entry Form by Friday, 20 March 2015.</p> <p>The deadline for submission of the Final Entry Form is Wednesday , 08 April 2015.   </p>
+                    </div>
+                 </div>
+                    <br /><img border="0" height="31" src="http://www.balkan-athletics.eu/images/banka-index-480-30.jpg" width="450"><br /><br />
+                    
+                    
+ 
                     </div>
                         
                     <br /><img border="0" height="31" src="http://www.balkan-athletics.eu/images/banka-index-480-30.jpg" width="450"><br /><br />

@@ -39,9 +39,8 @@
                     <a href="files/downloads/ABAF-logo-2011-BB.jpg" target="_blank"> ABAF official logo '2011 - (full colours - black background - .JPG)</a><div class="cleaner_h20"></div>
                     <a href="files/downloads/ABAF-logo-BW-2011-WB.jpg" target="_blank"> ABAF official logo '2011 - (monochrome - white background - .JPG)</a><div class="cleaner_h40"></div>
                     <a href="pdf/abafstatutes2011.pdf" target="_blank"> ABAF Statutes 2011</a><div class="cleaner_h20"></div>
-                    <a href="pdf/abafrules2011.pdf" target="_blank"> ABAF Championships Regulations amended March 2014</a><div class="cleaner_h20"></div>
-                    <a href="pdf/abafsliven2011.pdf" target="_blank"> Minutes ABAF Extraordinary Congress Sliven 2011</a><div class="cleaner_h40"></div>
-                    <a href="files/downloads/dcp-9045cdn-inst-win7-a2.exe"> BROTHER DCP-9045CDN Driver Windows 7 - 32/64b</a><div class="cleaner_h20"></div>
+                    <a href="pdf/ABAF Championships Regulations updated March 2014.pdf" target="_blank"> ABAF Championships Regulations amended March 2014</a><div class="cleaner_h20"></div>
+                    <a href="files/downloads/dcp-9045cdn-inst-win7-a2.exe" style="display:none;"> BROTHER DCP-9045CDN Driver Windows 7 - 32/64b</a><div class="cleaner_h20"></div>
                 </div>
                 <!--END CONTENT WRAPPER-->
                     

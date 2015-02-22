@@ -41,7 +41,25 @@
                             <p><a href="pdf/FEF_BalkanIndoor2015.xls" style="color:black">FEF</a></p>
                             
                             <p><a href="http://hiltongardeninn3.hilton.com/en/hotels/turkey/hilton-garden-inn-istanbul-airport-ISTIAGI/maps-directions/index.html" style="color:black"target="_blank">Hotel (Teams)<br></a><br><img src="images/Istanbul Indoor Atakoy 1.jpg" /><br><img src="images/Istanbul Indoor Atakoy 2.jpg" /><br><img src="images/Istanbul Indoor Atakoy 3.jpg" /></p>
+	                    <p class="content_title"><a href="2015/istanbul2015.php" style="text-decoration:none;">21 February 2015 - Balkan Indoor Championships<br />will be broadcasted live</a></p>
+					
+                        <div class="newsMain">
+                            <p><strong>YouTube Channel</strong><br><a href="https://www.youtube.com/channel/UC6mGWkXiLSB6RSQR2RTANVQ" target="_blank">https://www.youtube.com/channel/UC6mGWkXiLSB6RSQR2RTANVQ</a>
+                            
+                            <p><strong>Shot Put Sector</strong><br><a href="http://turkiyeatletizmfederasyonu.web.tv/program/gulle-atma" target="_blank">http://turkiyeatletizmfederasyonu.web.tv/program/gulle-atma</a>
+
+							<p><strong>Running race</strong><br><a href="http://turkiyeatletizmfederasyonu.web.tv/program/gulle-atma" target="_blank">http://turkiyeatletizmfederasyonu.web.tv/program/gulle-atma</a></p>
+
+							<p><strong>Pole Vault Sector</strong><br /><a href="http://turkiyeatletizmfederasyonu.web.tv/program/sirikla-atlama" target="_blank">
+http://turkiyeatletizmfederasyonu.web.tv/program/sirikla-atlama</a></p>
+
+							<p><strong>Long Jump</strong><br /><a href="http://turkiyeatletizmfederasyonu.web.tv/program/uzun-atlama" target="_blank">
+http://turkiyeatletizmfederasyonu.web.tv/program/uzun-atlama</a></p>
+
+							<p><strong>High Jump</strong><br /><a href="http://turkiyeatletizmfederasyonu.web.tv/program/yuksek-atlama" target="_blank">
+http://turkiyeatletizmfederasyonu.web.tv/program/yuksek-atlama</a></p>
                     </div>
+                 </div>
                 </div>
                 <!--END CONTENT WRAPPER-->
                     
