@@ -41,6 +41,13 @@
 	                <p class="content_mainTitle">News</p>
                     <hr width="40%" color="#0DB10F" size="1px"><br>
 
+                    <div class="grayOutlineRounded">
+                        <p class="content_title"><a style="text-decoration:none;">Pictures Gallery from the official photographer of the 20th Balkan Indoor Championships Istanbul 2015 Ibrahim YILDIRIM</a></p>
+                        <div class="news_main">
+                            <p><a href="https://www.facebook.com/atletizm.federasyon/media_set?set=a.1400316373613630.1073741843.100009058423677&type=1&pnref=story" target="_blank">Click here</a></p>
+                        </div>
+                    </div>
+
 
 
                    <div class="grayOutlineRounded">
