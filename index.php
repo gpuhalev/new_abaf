@@ -44,13 +44,12 @@
                     <div class="grayOutlineRounded">
                         <p class="content_title"><a style="text-decoration:none;">Balkan Indoor Championship Biomechanical Analysis Report</a></p>
                         <div class="news_main">
-                            <p>You can download a Biomechanical Analysis Report for the event Pole Vault (mеn and women) held in Istanbul Aslı Cakir Alptekin Athletics Arena on 21 February 2015 <a href="2015/pdf/BAR-BalkanCH2015.pdf" target="_blank">HERE</a></p>
+                            <p>You can download a Biomechanical Analysis Report for the event Pole Vault (men and women) held in Istanbul Asli Cakir Alptekin Athletics Arena on 21 February 2015 <a href="2015/pdf/BAR-BalkanCH2015.pdf" target="_blank">HERE</a></p>
                         </div>
                     </div>
 
 
 
-                   <div class="grayOutlineRounded">
 
 	           		<br /><img border="0" height="31" src="http://www.balkan-athletics.eu/images/banka-index-480-30.jpg" width="450"><br /><br />
 
