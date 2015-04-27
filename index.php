@@ -60,11 +60,9 @@
                         </div>
                     </div>
 
-
-
-                   <div class="grayOutlineRounded">
-
 	           		<br /><img border="0" height="31" src="http://www.balkan-athletics.eu/images/banka-index-480-30.jpg" width="450"><br /><br />
+
+	           		<div class="grayOutlineRounded">
 
  <p class="content_title"><a style="text-decoration:none;">Full results from the 20th Balkan Indoor Championships Istanbul 2015</a></p>      
  					<div id="resultsMain"><?php echo php_file_tree("./results/Balkan Indoor Championships/20th Balkan Indoor Championships 2015 Istanbul, TUR", "[link]");?></div>

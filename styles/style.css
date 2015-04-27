@@ -65,13 +65,13 @@ a{
 	
 	#left_sidebar2 {
 		width: 190px;
-		height: 200px;
 		margin: 280px auto 0;
 		padding: 0;
 		border: 0;
 		float: left;
 		background: white;
 		box-shadow: 0 0px 4px  gray;
+		overflow: hidden;
 	}
 	
 	/*START LEFT_RELATED*/
