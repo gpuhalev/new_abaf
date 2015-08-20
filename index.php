@@ -41,15 +41,243 @@
 	                <p class="content_mainTitle">News</p>
                     <hr width="40%" color="#0DB10F" size="1px"><br>
 
+<div class="grayOutlineRounded">
+    <p class="content_title"><a style="text-decoration:none;">Results from the Balkan Mountain Running Championships Bu&#x219;teni</a></p>
+
+
+<div class="newsMain">
+<p><a href="2015/pdf/Results BMRC Busteni 2015.pdf" target="_blank">Results</a></p>                            
+
+<p><a href="https://www.facebook.com/pages/CBPhoto/796961283744999?sk=photos_stream&tab=photos_albums" target="_blank">Pictures by Cristian Barbu</a></p>
+
+</p>
+</div>
+</div>
+<br /><img border="0" height="31" src="http://www.balkan-athletics.eu/images/banka-index-480-30.jpg" width="450"><br /><br />
+
+
+
+<div class="grayOutlineRounded">
+                       <p class="content_title"><a style="text-decoration:none;">Invitation to the Balkan Marathon and entry forms are available to download</a></p>
+
+
+<div class="newsMain">
+<p><a href="2015/pdf/Marathon Balkan Championships - MNE.pdf" target="_blank">Invitation</a></p>                            
+
+<p><a href="2015/pdf/Preliminary Balkan Marathon Championships - MNE.docx" target="_blank">Preliminary Entry Form</a></p>
+
+<p><a href="2015/pdf/FINAL Balkan Marathon Championships - MNE.docx" target="_blank">Final Entry Form</a></p>
+
+</p>
+</div>
+                    </div>
+
+
+                    <br /><img border="0" height="31" src="http://www.balkan-athletics.eu/images/banka-index-480-30.jpg" width="450"><br /><br />
+
+ <div class="grayOutlineRounded">
+<p class="content_title"><a style="text-decoration:none;">Balkan Championships Pitesti ROU 1-2 August 2015
+
+<br>
+
+<br><a href="http://www.fra.ro/upload_competitii/scb/" target="_blank">LIVE RESULTS</a></p>
+
+
+</a></p>
+
+
+<br><a href="http://atletism.live2web.ro/" target="_blank">LIVE TV STREAMING</a></p>
+
+ </a></p>    
+
+<br>Here you can find a 
+<a href="https://my.pcloud.com/publink/show?code=kZT8AVZXP9aFYyahDLOojc9t8BSt8NFUqdX"target="_blank">GALERY</a>
+
+<br>of pictures taken by the official photographer Ilian Telkedzhiev /TJ photos/.</a>
+You can download and use the pictures for free. </a>
+
+<br>
+
+<br>Please always give credit to <class="content_title"><a style="text-decoration:none;">TJ photos Ilian Telkedzhiev </a></p>
+                                
+</a></p>  
+</p>
+
+<br>Click <a href="https://www.facebook.com/pages/CBPhoto/796961283744999?sk=photos_stream&tab=photos_albums"target="_blank">HERE</a> to find more pictures made by Cristian Barbu </a></p>
+
+</a></p>  
+</p>
+
+
+
+<br><a href="2015/pdf/Prize Money Winners BCH 2015.pdf" target="_blank">Prize Money Winners</a></p>
+
+
+   <div class="newsMain">
+                         <img src="2015/images/Opening Ceremony BCH Pitesti 2015.jpg">
+
+<p class="content_title"><a style="text-decoration:none;">Dobromir Karamarinov and European Athletics President Svein Arne Hansen at the Opening Ceremony</a>
+
+<br>
+
+</a></p>  
+</p>
+                            <img src="2015/images/DK Ionalda Balas BCH Pitesti 2015.jpg">
+
+<p class="content_title"><a style="text-decoration:none;">ABAF President Karamarinov with Iolanda Balas on the tribunes in Pitesti</a>
+
+ </a></p>  
+</p>
+                            <img src="2015/images/TM Pitesti.jpg">
+
+<p class="content_title"><a style="text-decoration:none;">Technical Meeting in Pitesti</a>
+
+</p>
+</div>
+
+</div>
+
+	           		<br /><img border="0" height="31" src="http://www.balkan-athletics.eu/images/banka-index-480-30.jpg" width="450"><br /><br />
+
+
+
+
+<div class="grayOutlineRounded">
+                       <p class="content_title"><a style="text-decoration:none;">Prise Money for the <br>Balkan Championships Pitesti ROU 1-2 August 2015</a></p>
+
+
+<div class="newsMain">
+                            
+<p>Romanian Athletic Federation has provided prize money for the top 10 men's and top 10 women's performances according to IAAF Scoring Table at the Balkan Senior Championships. The total amount of the prize money is 40,000 EUR.</p>
+</p>
+ 
+
+<p>Detailed distribution can be found <a href="2015/pdf/BCH Prize money distibution.pdf" target="_blank">here</a></p>
+        
+<p>The Team Manual is available <a href="2015/pdf/Team_Manual_BSCH.pdf" target="_blank">HERE</a></p>
+
+<p>The Timetable can be found  <a href="2015/pdf/Timetable BCH Pitesti 2015.pdf" target="_blank">HERE</a></p>
+
+</p>
+</div>
+                    </div>
+
+
+	           		<br /><img border="0" height="31" src="http://www.balkan-athletics.eu/images/banka-index-480-30.jpg" width="450"><br /><br />
+
+
+
+
+ <div class="grayOutlineRounded">
+                       <p class="content_title"><a style="text-decoration:none;">Balkan Junior Championships Pitesti ROU 4-5 July 2015</a></p>
+
+
+<div class="newsMain">
+                            
+<p><strong>Results<strong> are <a href="results/Balkan Junior Championships/45th Balkan Junior Championships 2015 Pitesti, ROU/Results BJCH Pitesti 2015.pdf" target="_blank">HERE</a></p>
+
+<p>The Team Manual is available <a href="2015/pdf/TEAM MANUAL BJCH PITESTI 2015.pdf" target="_blank">HERE</a></p>
+                         
+                            <p>The Timetable can be found  <a href="2015/pdf/Time Table BJCH Pitesti 2015.pdf" target="_blank">HERE</a></p>
+
+</p>
+                            <img src="2015/images/Poster BJCH Pitesti 2015.jpg">
+
+
+</p>
+</div>
+                    </div>
+
+
+	           		<br /><img border="0" height="31" src="http://www.balkan-athletics.eu/images/banka-index-480-30.jpg" width="450"><br /><br />
+
+
+
+ <div class="grayOutlineRounded">
+                       <p class="content_title"><a style="text-decoration:none;">Balkan Youth Championships <br>Sremska Mitrovica SRB 4 July 2015</a></p>
+
+
+<div class="newsMain">
+                            
+<p><strong>Results<strong> are here <a href="results/Balkan Youth Championships/13th Balkan Youth Championships 2015 Sremska Mitrovica SRB/Results Girls BYCH 2015 Sremska Mitrovica SRB.pdf" target="_blank">GIRLS</a>
+<a href="results/Balkan Youth Championships/13th Balkan Youth Championships 2015 Sremska Mitrovica SRB/Results Boys BYCH 2015 Sremska Mitrovica SRB.pdf" target="_blank">BOYS</a></p>
+
+
+<p>The Team Manual is available <a href="2015/pdf/TEAM MANUAL BYCH Sremska Mitrovica 2015.pdf" target="_blank">HERE</a></p>
+                         
+                            <p>The Timetable can be found  <a href="2015/pdf/Preliminary Timetable BYCH Sremska Mitrovica 2015.pdf" target="_blank">HERE</a></p>
+
+ <p>The map of the stadium can be found<a href="2015/pdf/Athletic Stadium Sr. Mitrovica.pdf" target="_blank">HERE</a></p>
+
+
+</p>
+</div>
+                    </div>
+
+
+	           		<br /><img border="0" height="31" src="http://www.balkan-athletics.eu/images/banka-index-480-30.jpg" width="450"><br /><br />
+
+
+ <div class="grayOutlineRounded">
+                       <p class="content_title"><a style="text-decoration:none;">The date of the Balkan Gala 2015 was decided</a></p>
+
+
+<div class="newsMain">
+                            <p>The 5th Balkan Athletics Gala will take place on <strong>18 November 2015</strong> in Tbilisi, Georgia<br></a>  
+                         
+                            <p>The updated calendar can be found in the Calendar section.
+</p>
+</div>
+                    </div>
+
+
+	           		<br /><img border="0" height="31" src="http://www.balkan-athletics.eu/images/banka-index-480-30.jpg" width="450"><br /><br />
+
+
+ <div class="grayOutlineRounded">
+                       <p class="content_title"><a style="text-decoration:none;">Changes in the Calendar 2015</a></p>
+
+ <p class="content_title"><a style="text-decoration:none;">Balkan Senior Championships to be held in Pitesti, the Youth in Sremska Mitrovica</a></p>
+
+
+<div class="newsMain">
+                            <p>The Romanian Federations will be hosting the Balkan Senior Championships, after SEGAS renounced it. The Serbian Federation took over the Balkan Youth Championships which is now going to take place in Sremska Mitrovica instead of Buchares. The initial dates of both events remain unchanged.</p> 
+
+<p><strong>Balkan Senior Championships</strong> will be held in <strong>Pitesti, Romania</strong><br>on <strong>1-2 August 2015</strong><br></a>
+<p><strong>Balkan Youth Championships</strong>  will be held in <strong> Sremska Mitrovica, Serbia</strong>  on <strong> 4 July 2015</strong><br></a> 
+                           
+                            <p>The updated calendar can be found in the Calendar section.
+</p>
+</div>
+                    </div>
+
+
+	           		<br /><img border="0" height="31" src="http://www.balkan-athletics.eu/images/banka-index-480-30.jpg" width="450"><br /><br />
+
+
+
+ <div class="grayOutlineRounded">
+                        <p class="content_title"><a style="text-decoration:none;">ABAF President is the new Senior Vice President of European Athletics</a></p>
+
+<p class="content_title"><a style="text-decoration:none;">Five representative of Balkan federations are in the new European Athletics Council</a></p>
+
+<div class="newsMain">
+                            <p> Dobromir Karamarinov, who received the highest number of votes (37) on the 2015 European Athletics Congress held on 12 April 2015 in Bled, Slovenia was unanimously approved by the Council to be the First Vice President. Svein Arne Hansen of Norway is the new President of European Athletics. The other Vice Presidents are Frank Hensel, Gemany (33 votes) and Jean Gracia, France (32 votes). </p>
+                            <img src="2015/images/EA Council 2015-1019.jpg">
+                            <p>Among the 13 Council Members, four more representatives of Balkan Member Federations were elected. These are Dimakos Panagiotis (GRE), Gregor Bencina (SLO), Gabriela Szabo (ROM), Salih Munir Yaras (TUR). Thus, there are five Balkan representatives in European Athletics Council for the first time ever. 
+</p>
+</div>
+                    </div>
+
+
+	           		<br /><img border="0" height="31" src="http://www.balkan-athletics.eu/images/banka-index-480-30.jpg" width="450"><br /><br />
+
                     <div class="grayOutlineRounded">
                         <p class="content_title"><a style="text-decoration:none;">Balkan Indoor Championship Biomechanical Analysis Report</a></p>
                         <div class="news_main">
                             <p>You can download a Biomechanical Analysis Report for the event Pole Vault (men and women) held in Istanbul Asli Cakir Alptekin Athletics Arena on 21 February 2015 <a href="2015/pdf/BAR-BalkanCH2015.pdf" target="_blank">HERE</a></p>
                         </div>
                     </div>
-
-
-
 
 	           		<br /><img border="0" height="31" src="http://www.balkan-athletics.eu/images/banka-index-480-30.jpg" width="450"><br /><br />
 
@@ -124,19 +352,7 @@ http://turkiyeatletizmfederasyonu.web.tv/program/yuksek-atlama</a></p>
                     
                     
  
-                    </div>
-                        
-                    <br /><img border="0" height="31" src="http://www.balkan-athletics.eu/images/banka-index-480-30.jpg" width="450"><br /><br />
-                    <div class="grayOutlineRounded">
-	                    <p class="content_title">Gabriela Szabo is the new Minister of Youth and Sport of Romania</p>
-					
-                        <div class="newsMain">
-                            <p> The legendary Romanian middle and long distance runner Gabriela Szabo was nominated Minister of Youth and sport of Romania on 3 March 2014.</p>
-                            <img src="2014/images/szabo.jpg">
-                            <p>Szabo is Olympic Champion in 5000m from Sidney 2000. She is triple World outdoor Champion (5000m in 1997 & 1999; 1500m in 2001), has four World Indoor titles (3000m in 1995, 1997 & 1999; 1500m in 1999) and dozens of titles, prizes and top rankings in various events.</p>
-                            <p>After she resigned from active sports career , 38 year old Szabo is actively working for athletics in Romania as well as on international level. She is currently European Athletics Council member, IAAF Women Committee member and ABAF ex-officio member.</p>
-                            <p>Last July Gabriela Szabo was appointed Council Delegate for the European Mountain Running Championships in Borovets, Bulgaria.</p>
-                        </div>
+                 
                     </div>
             </div>
            
