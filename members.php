@@ -139,19 +139,18 @@
                     </div>
                     <div class="picright">
                     	Hrvatski Atletski Savez<br>
-                        Krizaniceva 5<br>
+                        Trg kralja Petra Svacica 17<br>
                         10000 Zagreb, Croatia<br>
                         <br />
-                        President: Luciano SUSANJ<br>
-                        Director: Sinisa ERGOTIC<br>
+                        President: Ivan VESTIC<br>
+                        General Secretary: Milan ORESKOVIC<br>
                         <br>
-                        Tel: (385 1) 46 22 635 (Director)<br>
                         Tel: (385 1) 46 13 499 (G.S.)<br>
                         Tel: (385 1) 46 10 117 (Office)<br>
                         Fax: (385 1) 46 22 634<br>
                         Mobile: (385 9) 8 41 24 45<br>
                         E-mail: has@has.hr<br />
-                        E-mail: sinisa.ergotic@has.hr<br />
+                        E-mail: milan.oreskovic@has.hr<br />
                         <br>
                         <strong>Anthem:</strong><br>
                         <a href="files/memberAnthems/hymne_cro.mp3" target="_blank">Download (mp3)</a>
@@ -312,10 +311,9 @@
                         Tel: (40 21) 319 24 47 (Pres.)<br>
                         Fax: (40 21) 319 24 43 (Int. Rel.)<br>
                         Fax: (373 22) 278 300<br>
-                        E-mail: sorin@fra.ro (President)<br>
-                        E-mail: nana@fra.ro (Gen. Sec.)<br>
-                        E-mail: traian@fra.ro (Int. Rel.)<br>
-                        <br>
+                        E-mail: sanduion@fra.ro  (President)<br>
+                        E-mail: office@fra.ro (Federation)<br>
+                                                <br>
                         <strong>Anthem:</strong><br>
                         <a href="files/memberAnthems/hymne_rou.mp3" target="_blank">Download (mp3)</a>
                     </div>
@@ -344,7 +342,7 @@
                         Fax: (381 11) 2627 371<br>
                         Mobile: (381 64) 640 11 31 (G.S.)<br>
                         E-mail: asj@Eunet.rs<br>
-                        E-mail: boban45@beotel.net<br>
+                        E-mail: brankovic.slobodan1@gmail.com <br>
                         <br>
                         <strong>Anthem:</strong><br>
                         <a href="files/memberAnthems/hymne_srb.mp3" target="_blank">Download (mp3)</a>
