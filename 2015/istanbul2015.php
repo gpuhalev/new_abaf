@@ -1,5 +1,5 @@
-	<?php include '../menus/mainHeader.html'?>
-    <link href="../styles/style.css" rel="stylesheet" type="text/css" media="screen" />
+	<?php include 'menus/mainHeader.html'?>
+    <link href="styles/style.css" rel="stylesheet" type="text/css" media="screen" />
     <title>ISTANBUL | BALKAN ATHLETICS OFFICIAL WEBSITE</title>
 </head>
 
@@ -29,7 +29,7 @@
         <!--START PAGE WRAPPER-->
         <div id="page_wrapper">
             
-            <?php include'../menus/leftSidebar.html'?>
+            <?php include'menus/leftSidebar.html'?>
             <!--START CONTENT WRAPPER -->
             <div id="content">
             	<div class="content_wrapper">
@@ -67,14 +67,14 @@ http://turkiyeatletizmfederasyonu.web.tv/program/yuksek-atlama</a></p>
             </div>
             <!--END CONTENT WRAPPER-->
             
-            <?php include'../menus/rightSidebar.html'?>
+            <?php include'menus/rightSidebar.html'?>
             
             
             
         </div>
         <!--END PAGE WRAPPER-->
         
-       	<?php include'../menus/mainFooter.html'?>
+       	<?php include'menus/mainFooter.html'?>
         
 	</div>
     <!-- END MAIN WRAPPER-->
