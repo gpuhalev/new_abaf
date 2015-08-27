@@ -42,6 +42,21 @@
                     <hr width="40%" color="#0DB10F" size="1px"><br>
 
 <div class="grayOutlineRounded">
+    <p class="content_title"><a style="text-decoration:none;">Balkanation is coming up</a></p>
+
+
+<div class="newsMain">
+	<p><a href="2015/pdf/balkanation_invitation.pdf" target="_blank">Invitation</a></p>                            
+
+<p><a href="2015/pdf/balkanation_pef.docx" target="_blank">Preliminary Entry Form</a></p>
+
+<p><a href="2015/pdf/balkanation_fef.docx" target="_blank">Final Entry Form</a></p>
+</div>
+</div>
+<br /><img border="0" height="31" src="http://www.balkan-athletics.eu/images/banka-index-480-30.jpg" width="450"><br /><br />
+
+
+<div class="grayOutlineRounded">
     <p class="content_title"><a style="text-decoration:none;">Results from the Balkan Mountain Running Championships Bu&#x219;teni</a></p>
 
 

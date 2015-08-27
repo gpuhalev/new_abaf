@@ -36,9 +36,12 @@
                 	<p class="content_smallTitle">25 October - Balkan Marathon Championships<br>Podgorica</p>
                     <hr width="40%" color="#0DB10F" size="1px"><br>
                		<div class="newsMain">
-                        <br>
-                        <img src="images/podgorica15.jpg">
-                    	<p>Coming soon...</p>
+                    	<p><a href="pdf/Marathon Balkan Championships - MNE.pdf" target="_blank">Invitation</a></p>                            
+
+						<p><a href="pdf/Preliminary Balkan Marathon Championships - MNE.docx" target="_blank">Preliminary Entry Form</a></p>
+
+						<p><a href="pdf/FINAL Balkan Marathon Championships - MNE.docx" target="_blank">Final Entry Form</a></p>
+						<img src="images/podgorica15.jpg">
                     </div>
                 </div>
                 <!--END CONTENT WRAPPER-->
