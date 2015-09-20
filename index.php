@@ -41,6 +41,22 @@
 	                <p class="content_mainTitle">News</p>
                     <hr width="40%" color="#0DB10F" size="1px"><br>
 
+
+<div class="grayOutlineRounded">
+    <p class="content_title"><a style="text-decoration:none;" href="http://www.balkan-athletics.eu/2015/apatin2015.php">Balkan Half Marathon Championships</a></p>
+
+
+<div class="newsMain">
+	<p><a href="2015/pdf/Invitation Letter-HMCH.jpg" target="_blank">Invitation</a></p>                            
+
+<p><a href="2015/pdf/Preliminary Entries - Balkan HMCH.docx" target="_blank">Preliminary Entry Form</a></p>
+
+<p><a href="2015/pdf/Regulations- BALKAN HALF MARATHON CHAMPIONSHIPS.pdf" target="_blank">Regulations</a></p>
+</div>
+</div>
+<br /><img border="0" height="31" src="http://www.balkan-athletics.eu/images/banka-index-480-30.jpg" width="450"><br /><br />
+
+
 <div class="grayOutlineRounded">
     <p class="content_title"><a style="text-decoration:none;">Balkanation is coming up</a></p>
 
