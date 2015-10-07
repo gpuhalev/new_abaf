@@ -33,10 +33,14 @@
             <div id="content">
             	<div class="content_wrapper">
 	                <p class="content_mainTitle">Official Calendar</p>
-                    <hr width="40%" color="#0DB10F" size="1px"><br>
+<p class="content_title"><a style="text-decoration:none;"><br>updated on 21 September 2015</a></p>
+                        <p class="content">In red are venues/dates that have been changed or updated after the last revision of the Calendar.</p>
+<hr width="40%" color="#0DB10F" size="1px">
+                        <p class="content">Calendar for 2016 can be found <a href="pdf/Balkan Calendar 2016.pdf" target="_blank">HERE</p>
+<hr width="40%" color="#0DB10F" size="1px"><br>
                     
-               		<iframe width="100%" height="635px" src="pdf/BalkanCalendar_2015_4_Feb_2015.pdf"><a href="pdf/BalkanCalendar_2015_4_Feb_2015.pdf" target="_blank">Click here to download the Calendar</a></iframe>
-                    <div class="newsMain"><p>Or open it in new tab <a href="pdf/BalkanCalendar_2015_4_Feb_2015.pdf" target="_blank">here</a></p></div>
+               		<iframe width="100%" height="635px" src="pdf/Balkan Calendar 2015 updated 21 Sept 2015.pdf"><a href="pdf/Balkan Calendar 2015 updated 21 Sept 2015.pdf" target="_blank">Click here to download the Calendar</a></iframe>
+                    <div class="newsMain"><p>Or open it in new tab <a href="pdf/Balkan Calendar 2015 updated 21 Sept 2015.pdf" target="_blank">here</a></p></div>
                 </div>
                 
                 <!--END CONTENT WRAPPER-->
