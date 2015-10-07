@@ -41,6 +41,15 @@
 	                <p class="content_mainTitle">News</p>
                     <hr width="40%" color="#0DB10F" size="1px"><br>
 
+<div class="grayOutlineRounded">
+    <p class="content_title"><a style="text-decoration:none;" href="http://www.balkan-athletics.eu/2015/new_member_isr.php">New Member<br>ISRAEL</a></p>
+<div class="newsMain">
+    <img src="2015/images/DK ISR.jpg">
+    <p>The Israeli Athletic Association is the newest member of the Association of Balkan Athletics Federations...</p>
+    <p style="text-align:right;"><a href="http://www.balkan-athletics.eu/2015/new_member_isr.php">Read more</a></p>
+</div>
+</div>
+<br /><img border="0" height="31" src="http://www.balkan-athletics.eu/images/banka-index-480-30.jpg" width="450"><br /><br />
 
 
 <div class="grayOutlineRounded">

@@ -224,14 +224,37 @@
 	                    <div class="desc">Greece</div>
                     </div>
 				</div>
-                
-                <div class="pic">
+
+
+<div class="pic">
                 	<div class="picleft">
-	                	<a href="http://www.afm.org.mk/mk/" target="_blank"><img src="images/members/fyrom_flag.jpg"></a>
-    	                <div class="desc">FYRO Macedonia</div>
+	                	<a href="http://www.iaa.co.il" target="_blank"><img src="images/members/israel_flag.jpg"></a>
+    	                <div class="desc">Israel</div>
                     </div>
                     <div class="picright">
-                    	Atletska Federacija na Makedonija<br>
+                    	Israeli Athletic Association<br>
+                        10 Shitrit St.<br>
+                        PO Box 24190<br>
+                        Tel-Aviv 61241<br>
+                        Israel<br>
+                        <br />
+                        President: Rafi PELED<br>
+                        General Secretary: Jack COHEN<br>
+                        <br>
+                        Tel:(972 3) 6 48 62 56<br>
+                        Fax:(972 3) 6 48 62 55<br>
+                        E-mail: iaa@zahav.net.il<br>
+                        <br>
+                        <strong>Anthem:</strong><br>
+                        <a href="files/memberAnthems/hymne_isr.mp3" target="_blank">Download (mp3)</a>
+                    </div>
+				</div>
+
+
+              
+                <div class="pic">
+                	<div class="picleft">
+                    	Atletska Federacija na Makedonija<span style="display:none">'</span><br>
                         Sala KK "Rabotnicki"<br>
                         Gradski Park, Pos Fah 5<br>
                         1000 Skopje, Macedonia<br>
@@ -245,18 +268,27 @@
                         <br>
                         <strong>Anthem:</strong><br>
                         <a href="files/memberAnthems/hymne_mkd.mp3" target="_blank">Download (mp3)</a>
+ </div>
+                    <div class="picright">
+	               <a href="http://www.afm.org.mk/mk/" target="_blank"><img src="images/members/fyrom_flag.jpg"></a>
+    	                <div class="desc">FYR of Macedonia</div>
+                   
                     </div>
 				</div>
                 
-                <div class="pic">
-                	<div class="picleft">
+<div class="pic">
+               <div class="picleft">
+    	            	<a href="http://fam.com.md/" target="_blank"><img src="images/members/mda_flag.jpg"></a>
+	                    <div class="desc">Moldova</div>
+</div> 
+                	<div class="picright">
                     	Federatia de Atletism<br>din Republica Moldova<br>
                         of.309, Ismail str. 58/1<br>
                         Chisinau MD2001<br>Republic of Moldova<br>
                         <br />
-                        President:<br>&emsp;Anatolie BALAN<br>
-                        General Secretary:<br>&emsp;Constantin NEGURA<br>
-                        International Secretary:<br>&emsp;Serghei DONETS<br>
+                        President: Anatolie BALAN<br>
+                        General Secretary: Constantin NEGURA<br>
+                        International Secretary: Serghei DONETS<br>
                         <br>
                         Tel: (373 22) 278 300/1<br>
                         Mobile: (373) 691 04 101<br>
@@ -269,20 +301,12 @@
                         <br>
                         <strong>Anthem:</strong><br>
                         <a href="files/memberAnthems/hymne_mda.mp3" target="_blank">Download (mp3)</a>
-                    </div>
-                    <div class="picright">
-    	            	<a href="http://fam.com.md/" target="_blank"><img src="images/members/mda_flag.jpg"></a>
-	                    <div class="desc">Moldova</div>
-                    </div>
+                   </div>
 				</div>
                 
                 <div class="pic">
                 	<div class="picleft">
-    	            	<img src="images/members/mne_flag.jpg">
-	                    <div class="desc">Montenegro</div>
-                    </div>
-                    <div class="picright">
-                    	Athletics Federation of Montenegro<br>
+Athletics Federation of Montenegro<span style="display:none">'</span><br>
                         ul. 19 Decembar br. 21<br>
                         81000 Podgorica, Montenegro<br>
                         <br />
@@ -292,14 +316,22 @@
                         Phone/Fax: (382 20) 206 690<br>
                         E-mail: ascg@t-com.me<br>
                         <br>
-                        <strong>Anthem:</strong><br>
+<strong>Anthem:</strong><br>
                         <a href="files/memberAnthems/hymne_mne.mp3" target="_blank">Download (mp3)</a>
+                    </div>
+    	            	<div class="picright">
+<a href="http://www.ascg.co.me/" target="_blank"><img src="images/members/mne_flag.jpg"></a>
+	                    <div class="desc">Montenegro</div>
                     </div>
 				</div>
                 
                 <div class="pic">
                 	<div class="picleft">
-                    	Romanian Athletic Federation<br>
+<a href="http://www.fra.ro/" target="_blank"><img src="images/members/rou_flag.jpg"></a>
+	                    <div class="desc">Romania</div>
+                    </div>
+                    <div class="picright">
+	Romanian Athletic Federation<br>
                         2 Primo Nebiolo St.<br>
                         011349 Bucharest, Romania<br>
                         <br />
@@ -317,19 +349,11 @@
                         <strong>Anthem:</strong><br>
                         <a href="files/memberAnthems/hymne_rou.mp3" target="_blank">Download (mp3)</a>
                     </div>
-                    <div class="picright">
-    	            	<a href="http://www.fra.ro/" target="_blank"><img src="images/members/rou_flag.jpg"></a>
-	                    <div class="desc">Romania</div>
-                    </div>
 				</div>
                 
                 <div class="pic">
                 	<div class="picleft">
-    	            	<a href="http://www.ass.org.rs/" target="_blank"><img src="images/members/srb_flag.jpg"></a>
-	                    <div class="desc">Serbia</div>
-                    </div>
-                    <div class="picright">
-                    	Athletics Federation of Serbia<br>
+Athletics Federation of Serbia<br>
                         Strahinjica Bana 73a<br>
                         11000 Beograd, Serbia<br>
                         <br />
@@ -344,13 +368,21 @@
                         E-mail: asj@Eunet.rs<br>
                         E-mail: brankovic.slobodan1@gmail.com <br>
                         <br>
-                        <strong>Anthem:</strong><br>
+ <strong>Anthem:</strong><br>
                         <a href="files/memberAnthems/hymne_srb.mp3" target="_blank">Download (mp3)</a>
                     </div>
-				</div>
+                    <div class="picright">
+    	            	<a href="http://www.ass.org.rs/" target="_blank"><img src="images/members/srb_flag.jpg"></a>
+	                    <div class="desc">Serbia</div>
+                    </div>
+	               </div>
                 
                 <div class="pic">
                 	<div class="picleft">
+<a href="http://www.atletska-zveza.si/" target="_blank"><img src="images/members/slo_flag.jpg"></a>
+    	                <div class="desc">Slovenia</div>
+                    </div>
+<div class="picright">
                     	Slovenian Athletic Federation<br>
                         Letaliska Cesta 33-C<br>
                         1122 Ljubljana, Slovenia<br>
@@ -367,19 +399,11 @@
                         <strong>Anthem:</strong><br>
                         <a href="files/memberAnthems/hymne_slo.mp3" target="_blank">Download (mp3)</a>
                     </div>
-                    <div class="picright">
-	                	<a href="http://www.atletska-zveza.si/" target="_blank"><img src="images/members/slo_flag.jpg"></a>
-    	                <div class="desc">Slovenia</div>
-                    </div>
 				</div>
                 
                 <div class="pic">
                 	<div class="picleft">
-    	            	<a href="http://www.taf.org.tr/" target="_blank"><img src="images/members/tur_flag.jpg"></a>
-	                    <div class="desc">Turkey</div>
-                    </div>
-                    <div class="picright">
-                    	Turkiye Atletizm Federasyonu<br>
+Turkiye Atletizm Federasyonu<br>
                         19 Mayis Spor Kompleksi Naili<br>
                         Moran Atletizm Tesisi Gar Ulus<br>
                         Ankara, Turkey<br>
@@ -393,8 +417,12 @@
                         E-mail: atletizmtr@yahoo.com<br>
                         E-mail: atletizm25@gmail.com<br>
                         <br>
-                        <strong>Anthem:</strong><br>
+<strong>Anthem:</strong><br>
                         <a href="files/memberAnthems/hymne_tur.mp3" target="_blank">Download (mp3)</a>
+                    </div>
+<div class="picright">
+    	            	<a href="http://www.taf.org.tr/" target="_blank"><img src="images/members/tur_flag.jpg"></a>
+	                    <div class="desc">Turkey</div>
                     </div>
 				</div>
             </div>
