@@ -33,7 +33,7 @@
             <!--START CONTENT WRAPPER -->
             <div id="content">
             	<div class="content_wrapper">
-                	<p class="content_smallTitle">November - 5th Balkan Athletics Gala 2015<br>Tbilisi</p>
+                	<p class="content_smallTitle">18 November - 5th Balkan Athletics Gala 2015<br>Tbilisi</p>
                     <hr width="40%" color="#0DB10F" size="1px"><br>
                		<div class="newsMain">
                     	<p>Coming soon...</p>

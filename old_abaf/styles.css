@@ -1,0 +1,401 @@
+/*
+Design by Metamorphosis Design
+http://www.metamorphozis.com
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+* 
+{
+margin: 0px;
+padding: 0px;
+}
+
+body {
+	background: #EEF4F7 url(images/back_all.gif) repeat-x;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #000000;
+}
+
+input, textarea {
+	background: #A4E4F5;
+	border: 1px solid #FFFFFF;
+	font: bold 13px Arial, Helvetica, sans-serif;
+	color: #0F5B96;
+}
+
+h1, h2, h3, p, ol, ul {
+	margin-top: 0;
+}
+
+h1, h2, h3 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2 {
+	text-transform: uppercase;
+	font-weight: normal;
+}
+
+h1 {
+	font-size: 2.4em;
+}
+
+h2 {
+	font-size: 1.8em;
+}
+
+
+a {
+	color: #1D74A6;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #1D74A6;
+}
+
+
+
+hr {
+	display: none;
+}
+
+#main
+{
+width: 1041px;
+margin: 0 auto;
+background: #EEF4F7 url(images/table_back.jpg) no-repeat top;
+}
+
+#stars
+{
+width: 1041px;
+margin: 0 auto;
+background: #EEF4F7 url(images/table_stars.jpg) no-repeat top;
+}
+
+#news
+{
+width: 1041px;
+margin: 0 auto;
+background: #EEF4F7 url(images/table_news.jpg) no-repeat top;
+}
+
+#gallery
+{
+width: 1041px;
+margin: 0 auto;
+background: #EEF4F7 url(images/table_gallery.jpg) no-repeat top;
+}
+
+#europe
+{
+width: 1041px;
+margin: 0 auto;
+background: #EEF4F7 url(images/table_europe.jpg) no-repeat top;
+}
+
+#contacts
+{
+width: 1041px;
+margin: 0 auto;
+background: #EEF4F7 url(images/table_contacts.jpg) no-repeat top;
+}
+
+#kalendar
+{
+width: 1041px;
+margin: 0 auto;
+background: #EEF4F7 url(images/table_kalendar.jpg) no-repeat top;
+}
+
+#map
+{
+width: 1041px;
+margin: 0 auto;
+background: #EEF4F7 url(images/table_map.jpg) no-repeat top;
+}
+
+#himn
+{
+width: 1041px;
+margin: 0 auto;
+background: #EEF4F7 url(images/table_himn.jpg) no-repeat top;
+}
+
+#us
+{
+width: 1041px;
+margin: 0 auto;
+background: #EEF4F7 url(images/table_us.jpg) no-repeat top;
+}
+
+#project
+{
+width: 1041px;
+margin: 0 auto;
+background: #EEF4F7 url(images/table_project.jpg) no-repeat top;
+}
+
+#inner
+{
+width: 915px;
+margin: 0 auto;
+}
+
+/* Header */
+
+#header {
+	height: 200px;
+	width: 915px;
+}
+
+#logo {
+width: 915px;
+height: 184px;
+}
+
+#logo h1, #logo p {
+	margin: 0;
+	line-height: normal;
+}
+
+#logo h1 {
+	padding: 47px 0 0 20px;
+	font-size: 24px;
+	color: #ffffff;
+}
+#logo h2 {
+	padding: 10px 0 0 20px;
+	font-size: 10px;
+	text-transform: uppercase;
+	color: #ffffff;
+}
+
+#logo a {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+#menu {
+height: 32px;
+background: url(images/menu.png) no-repeat;
+width: 800px;
+padding-left: 115px;
+}
+
+#menu ul {
+	margin: 0;
+	list-style: none;
+}
+
+#menu li {
+	display: inline;
+}
+
+#menu a {
+	float: left;
+	width: 140px;
+	height: 26px;
+	text-decoration: none;
+	text-align: center;
+	padding-top: 6px;
+	font-size: 1.1em;
+	font-weight: bold;
+	color: #ffffff;
+
+}
+
+#menu a:hover {
+	background: url(images/menu_r.gif) repeat-x;
+}
+
+/* Page */
+
+#page {
+	width: 915px;
+	margin: 0 auto;
+	margin-top: 12px;
+}
+
+/* Content */
+
+#content {
+	float: left;
+	width: 497px;
+	margin-left: 5px;
+}
+
+#content .post ul, #content .post ol
+{
+margin-left: 30px;
+}
+
+#content .top
+{
+width: 497px;
+background: url(images/top.png) no-repeat;
+height: 13px;
+}
+
+#content .middle_back
+{
+width: 477px;
+background: #ffffff;
+padding: 10px;
+}
+
+#content .bottom
+{
+width: 497px;
+background: url(images/bottom.png) no-repeat;
+height: 9px;
+margin-bottom: 6px;
+}
+
+.post {
+	margin-bottom: 15px;
+	color: #000000;
+	margin-top: 10px;
+}
+
+.post a {
+	color: #0A6894;
+}
+
+.post a:hover {
+	color: #0A6894;
+}
+
+.post H2
+{
+color: #0A6894;
+font-size: 14px;
+font-weight: bold
+}
+
+/* Sidebars */
+
+.sidebar {
+	float: left;
+	width: 202px;
+	margin-top: 10px;
+
+	color: #000000;
+
+}
+
+.sidebar ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	line-height: normal;
+}
+
+
+.sidebar li {
+	padding: 4px 0 4px 20px;
+}
+
+.sidebar a {
+	text-decoration: none;
+	color: #0A6894;
+	font-size: 11px;
+}
+.sidebar a:hover {
+	color: #0A6894;
+	text-decoration: underline;
+}
+
+.sidebar h2 {
+	padding-top: 5px;
+	color: #FFFFFF;
+	background: url(images/title.png) no-repeat;
+	height: 23px;
+	padding-left: 20px;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.bottom_small
+{
+height: 11px;
+background: url(images/bottom_small.png) no-repeat;
+width: 202px;
+margin-bottom: 6px;
+}
+
+/* Left Sidebar */
+
+#leftbar {
+
+}
+
+/* Right Sidebar */
+
+#rightbar {
+margin-left: 5px;
+}
+
+#leftbar .back, #rightbar .back
+{
+background: #ffffff url(images/title_back.png) no-repeat;
+padding: 10px;
+
+}
+
+
+/* Calendar */
+
+#calendar table {
+	width: 100%;
+	text-align: center;
+}
+
+#calendar thead {
+
+}
+
+#calendar tbody td {
+	border: 1px solid #F1F1F1;
+}
+
+#calendar #prev {
+	text-align: left;
+}
+
+#calendar #next {
+	text-align: right;
+}
+
+#calendar tfoot a {
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#calendar #now {
+	background: #696969;
+	border: 1px solid #ff0000;
+	font-weight: bold;
+	color: #ffffff
+}
+
+
+/* Footer */
+
+#footer {
+	clear: both;
+	padding-top: 20px;
+	height: 62px;
+}
+
+#footer p {
+	text-align: center;
+	font-size: smaller;
+	color: #0A6894;
+}
+
+#footer a {
+	color: #0A6894;
+}

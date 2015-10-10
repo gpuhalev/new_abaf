@@ -33,7 +33,7 @@
             <!--START CONTENT WRAPPER -->
             <div id="content">
             	<div class="content_wrapper">
-                	<p class="content_smallTitle">DecaNation<br>France</p>
+                	<p class="content_smallTitle">DecaNation<br>13 September 2015 Paris, France</p>
                     <hr width="40%" color="#0DB10F" size="1px"><br>
                		<div class="newsMain">
                     	<p>Coming soon...</p>

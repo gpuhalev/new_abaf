@@ -36,14 +36,37 @@
                 	<p class="content_smallTitle">4-5 July - Balkan Junior Championships<br>Pitesti</p>
                     <hr width="40%" color="#0DB10F" size="1px"><br>
                		<div class="newsMain">
-                    	<p>Coming soon...</p>
+                    	
+
+<p><a href="pdf/Invitation BJCH Pitesti 2015.pdf"
+style="color:black" target="_blank">Invitation</a></p>
+
+                                                   <p><a href="pdf/PEF_BJCH_Pitesti 2015.xlsx" style="color:black">PEF</a></p>
+
+                                                   <p><a href="pdf/FEF_BJCH_Pitesti 2015.xlsx" style="color:black">FEF</a></p>
+
+<p><a href="pdf/TEAM MANUAL BJCH PITESTI 2015.pdf"
+style="color:black" target="_blank">Team Manual</a></p>
+
+<p><a href="pdf/Time Table BJCH Pitesti 2015.pdf"
+style="color:black" target="_blank">Timetable</a></p>
+                            
+</a><br><img src="images/Poster BJCH Pitesti 2015.jpg"</a></p>
+
+</a><br><img src="images/Pitesti parashute.jpg"</a></p>
+
+</a><br><img src="images/Pitesti Atletism.jpg"</a></p>
+
+
+
                     </div>
                 </div>
                 <!--END CONTENT WRAPPER-->
-                    
-                
-            </div>
+
+  </div>
             <!--END CONTENT WRAPPER-->
+
+
             
             <?php include'menus/rightSidebar.html'?>
             

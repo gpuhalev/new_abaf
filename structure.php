@@ -36,13 +36,6 @@
                 	<p class="content_mainTitle">Structure</p>
                     <hr width="40%" color="#0DB10F" size="1px"><br>
                     
-                    <p class="content_title">ABAF Commissions</p>
-                    
-                    <a href="files/structure/abafcommissions.doc" style="text-decoration: none;"><div class="grayOutlineRoundedCV">
-                    	<p class="green_13">Click here to view</p>
-                    </div></a>
-                    
-                    <div class="cleaner_h30"></div>
                     
                     <p class="content_title">ABAF Executive Committee</p>
                		<div class="grayOutlineRoundedCV">
@@ -138,7 +131,41 @@
                             </ul>
                         </div>
                     </div>
+                         <div class="grayOutlineRoundedCV">
+                    	<img class="CV" src="images/structure/cv-brankovic.jpg" name="brankovic">
+                    	<p class="green_13" name="brankovic">VICE-PRESIDENT: SLOBODAN BRANKOVIC / SRB<br>(GENERAL SECRETARY SERBIAN ATHLETIC FEDERATION)</p>
+                        <div class="hiddenCV" name="brankovic">
+							<h4> Curriculum Vitae:</h4>
+                            <ul>
+                            <li>Name: BRANKOVIC</li>
+                            <li>First name: Slobodan </li>
+                            <li>Date of birth: 1 October 1967</li>
+                            <li>Nationality:		Serbian </li>
+                            <li>Profession:		Sport Management</li>
+                            </ul>
+                                
+                            <ul>
+                            <li>He became involved in athletics at an early age and is today one of the biggest Serbian athletic stars. He has been a professional athlete for 20 years. During his rich athletic career he has won innumerable medals. He is the Balkans 100m, 200m and 400m champion several times over. However, his biggest achievement was the gold medal at 1992 European Indoor Championship in Genoa. He is still the Serbian record holder at 100m, 400m and 4x400m events. </li>
+                            <li>After the end of his professional career, Brankovic completed his professional education at the Belgrade Faculty for management in Sport and now hold the Bachelor degree in sports management. He has been one of the organizers of "Memorial Artur Takac" in 2006 and 2007 when he was elected for General Secretary of Athletic Federation of Serbia, which position he still holds today.</li>
+                            </ul>
+                        </div>
+                    </div>
                     
+                    <div class="grayOutlineRoundedCV">
+                    	<img class="CV" src="images/structure/cv-sandu.jpg" name="sandu">
+                    	<p class="green_13" name="sandu">FINANCE AND MARKETING DIRECTOR: ION SANDU / ROU<br>(PRESIDENT ROMANIAN ATHLETIC FEDERATION)</p>
+                        <div class="hiddenCV" name="sandu">
+							<h4> Curriculum Vitae:</h4>
+                            <ul>
+                            <li>Name: SANDU</li>
+                            <li>First name: Ion</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+
+
+                    <div class="cleaner_h30"></div>
                     <div class="grayOutlineRoundedCV">
                     	<img class="CV" src="images/structure/cv-puhaleva.jpg" name="puhaleva">
                     	<p class="green_13" name="puhaleva">GENERAL SECRETARY: GALIA PUHALEVA / BUL<br>(INTERNATIONAL SECRETARY BULGARIAN ATHLETIC FEDERATION)</p>
@@ -182,50 +209,41 @@
                         </div>
                     </div>
                     
-                    <div class="grayOutlineRoundedCV">
-                    	<img class="CV" src="images/structure/cv-brankovic.jpg" name="brankovic">
-                    	<p class="green_13" name="brankovic">COUNCIL MEMBER: SLOBODAN BRANKOVIC / SRB<br>(GENERAL SECRETARY SERBIAN ATHLETIC FEDERATION)</p>
-                        <div class="hiddenCV" name="brankovic">
-							<h4> Curriculum Vitae:</h4>
-                            <ul>
-                            <li>Name: BRANKOVIC</li>
-                            <li>First name: Slobodan </li>
-                            <li>Date of birth: 1 October 1967</li>
-                            <li>Nationality:		Serbian </li>
-                            <li>Profession:		Sport Management</li>
-                            </ul>
-                                
-                            <ul>
-                            <li>He became involved in athletics at an early age and is today one of the biggest Serbian athletic stars. He has been a professional athlete for 20 years. During his rich athletic career he has won innumerable medals. He is the Balkans 100m, 200m and 400m champion several times over. However, his biggest achievement was the gold medal at 1992 European Indoor Championship in Genoa. He is still the Serbian record holder at 100m, 400m and 4x400m events. </li>
-                            <li>After the end of his professional career, Brankovic completed his professional education at the Belgrade Faculty for management in Sport and now hold the Bachelor degree in sports management. He has been one of the organizers of "Memorial Artur Takac" in 2006 and 2007 when he was elected for General Secretary of Athletic Federation of Serbia, which position he still holds today.</li>
-                            </ul>
-                        </div>
-                    </div>
-                    
-                    <div class="grayOutlineRoundedCV">
-                    	<img class="CV" src="images/structure/cv-badea.jpg" name="badea">
-                    	<p class="green_13" name="badea">COUNCIL MEMBER: TRAIAN BADEA / ROU<br>(FEDERAL SECRETARY ROMANIAN ATHLETIC FEDERATION)</p>
-                        <div class="hiddenCV" name="badea">
-							<h4> Curriculum Vitae:</h4>
-                            <ul>
-                            <li>Name: BADEA</li>
-                            <li>First name: Traian</li>
-                            </ul>
-                        </div>
-                    </div>
-                    
-                    <div class="cleaner_h30"></div>
+               
                     
                     <p class="content_title">ABAF Ex-Officio Members</p>
-               		<div class="grayOutlineRoundedCV">
+               	
+
+<div class="grayOutlineRoundedCV">
+                    	<a href="files/structure/bencina.pdf" target="_blank"><img class="CV" src="images/structure/cv-bencina.jpg" name="bencina"></a>
+                    	<a href="files/structure/bencina.pdf" target="_blank" style="text-decoration: none;"><p class="green_13" name="bencina">GREGOR BENCINA / SLO<br>(EUROPEAN ATHLETICS COUNCIL MEMBER)</p></a>
+                    </div>	
+
+<div class="grayOutlineRoundedCV">
+                    	<a href="files/structure/dimakos.pdf" target="_blank"><img class="CV" src="images/structure/cv-dimakos.jpg" name="dimakos"></a>
+                    	<a href="files/structure/dimakos.pdf" target="_blank" style="text-decoration: none;"><p class="green_13" name="dimakos">PANAGIOTIS DIMAKOS / GRE<br>(EUROPEAN ATHLETICS COUNCIL MEMBER)</p></a>
+                    </div>	
+
+<div class="grayOutlineRoundedCV">
                     	<a href="files/structure/szabo.pdf" target="_blank"><img class="CV" src="images/structure/cv-szabo.jpg" name="szabo"></a>
-                    	<a href="files/structure/szabo.pdf" target="_blank" style="text-decoration: none;"><p class="green_13" name="szabo">GABRIELA SZABO / ROM<br>(EUROPEAN ATHLETICS COUNCIL MEMBER)</p></a>
+                    	<a href="files/structure/szabo.pdf" target="_blank" style="text-decoration: none;"><p class="green_13" name="szabo">GABRIELA SZABO / ROU<br>(EUROPEAN ATHLETICS COUNCIL MEMBER)</p></a>
                     </div>
                     <div class="grayOutlineRoundedCV">
                     	<a href="files/structure/munir.pdf" target="_blank"><img class="CV" src="images/structure/cv-munir.jpg" name="munir"></a>
                     	<a href="files/structure/munir.pdf" target="_blank" style="text-decoration: none;"><p class="green_13" name="munir">SALIH MUNIR YARAS / TUR<br>(EUROPEAN ATHLETICS COUNCIL MEMBER)</p></a>
                     </div>
                 </div>
+
+
+                    <p class="content_title">PRESIDENT'S COUNCIL</p>
+                    
+                   <div class="grayOutlineRoundedCV">
+                    	<p class="black_8">Composed of the Presidents of the Member Federations. Meets twice a year.</p>
+                    </div></a>
+                    
+                    <div class="cleaner_h30"></div>
+
+
                 <!--END CONTENT WRAPPER-->
                     
                 
