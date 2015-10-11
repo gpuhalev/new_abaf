@@ -176,7 +176,7 @@
                             <li>First name: Galia </li>
                             <li>Date of birth: 29 June 1974</li>
                             <li>Nationality:		Bulgarian </li>
-                            <li>Spoken Languages:	Bulgarian, English, Franch, Russian</li>
+                            <li>Spoken Languages:	Bulgarian, English, French, Russian</li>
                             </ul>
                                 
                             <h4>Working Experience:</h4>
