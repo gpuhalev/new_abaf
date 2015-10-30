@@ -36,6 +36,8 @@
                 	<p class="content_smallTitle">18 October - Balkan Half Marathon Championships<br>Apatin</p>
                     <hr width="40%" color="#0DB10F" size="1px"><br>
                		<div class="newsMain">
+                        <p><a href="pdf/Results Balkan Half Marathon Championships 2015.pdf" target="_blank">RESULTS</a></p>
+                        <br>
                         <p><a href="pdf/Invitation Letter-HMCH.jpg" target="_blank">Invitation</a></p>                            
 
                         <p><a href="pdf/Preliminary Entries - Balkan HMCH.docx" target="_blank">Preliminary Entry Form</a></p>

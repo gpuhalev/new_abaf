@@ -36,6 +36,10 @@
                 	<p class="content_smallTitle">25 October - Balkan Marathon Championships<br>Podgorica</p>
                     <hr width="40%" color="#0DB10F" size="1px"><br>
                		<div class="newsMain">
+                        <p><a href="pdf/Balkan Marathon Championships - Results.pdf" target="_blank">Results</a></p><br>
+                        <img src="images/IMG_4596.jpg"><br>
+                        <p>European Athletics President Svein Arne Hansen and Dobromir Karamarinov attended the Balkan Marathon Championships in Podgorica, Montenegro. They met with the Mayor  
+Slavoljub Stijepovic, Vice Mayor Boris Mugosa and other high authorities who agreed to find a way to build an athletics stadium in Podgorica. </p><br>
                     	<p><a href="pdf/Marathon Balkan Championships - MNE.pdf" target="_blank">Invitation</a></p>                            
 
 						<p><a href="pdf/Preliminary Balkan Marathon Championships - MNE.docx" target="_blank">Preliminary Entry Form</a></p>

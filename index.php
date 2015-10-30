@@ -42,6 +42,39 @@
                     <hr width="40%" color="#0DB10F" size="1px"><br>
 
 <div class="grayOutlineRounded">
+    <p class="content_title"><a style="text-decoration:none;" href="http://www.balkan-athletics.eu/2015/podgorica2015.php">Balkan Marathon Championships Podgorica</a></p>
+    <div class="newsMain">
+        <p><a href="2015/pdf/Balkan Marathon Championships - Results.pdf" target="_blank">RESULTS</a></p>
+        <img src="2015/images/IMG_4596.jpg"><br>
+        <p>European Athletics President Svein Arne Hansen and Dobromir Karamarinov attended the Balkan Marathon Championships in Podgorica, Montenegro. They met with the Mayor  
+Slavoljub Stijepovic, Vice Mayor Boris Mugosa and other high authorities who agreed to find a way to build an athletics stadium in Podgorica. </p><br>
+    </div>
+</div>
+<br /><img border="0" height="31" src="http://www.balkan-athletics.eu/images/banka-index-480-30.jpg" width="450"><br /><br />
+
+
+
+<div class="grayOutlineRounded">
+    <p class="content_title"><a style="text-decoration:none;" href="http://www.balkan-athletics.eu/2015/apatin2015.php"> Balkan Half Marathon Championships Apatin<br>Results</a></p>
+    <div class="newsMain">
+        <a href="2015/pdf/Results Balkan Half Marathon Championships 2015.pdf" target="_blank">Click here</a>
+    </div>
+</div>
+<br /><img border="0" height="31" src="http://www.balkan-athletics.eu/images/banka-index-480-30.jpg" width="450"><br /><br />
+
+
+<div class="grayOutlineRounded">
+    <p class="content_title"><a style="text-decoration:none;" href="http://www.balkan-athletics.eu/2015/vrsac2015.php">Balkan Congress<br>Vrsac Serbia, 24 September 2015</a></p>
+<div class="newsMain">
+    <img src="2015/images/Balkan Congress 0.jpg">
+    <p>The current President of Balkan Athletics Dobromir Karamarinov was unanimously re-elected for another 4-years term. A new governance structure was also adopted, therefore Balkan Athletics will be governed now by the following bodies...</p>
+    <p style="text-align:right;"><a href="http://www.balkan-athletics.eu/2015/vrsac2015.php">Read more</a></p>
+</div>
+</div>
+<br /><img border="0" height="31" src="http://www.balkan-athletics.eu/images/banka-index-480-30.jpg" width="450"><br /><br />
+
+
+<div class="grayOutlineRounded">
     <p class="content_title"><a style="text-decoration:none;" href="http://www.balkan-athletics.eu/2015/new_member_isr.php">New Member<br>ISRAEL</a></p>
 <div class="newsMain">
     <img src="2015/images/DK ISR.jpg">
