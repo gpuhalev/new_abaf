@@ -42,6 +42,28 @@
                     <hr width="40%" color="#0DB10F" size="1px"><br>
 
 <div class="grayOutlineRounded">
+    <p class="content_title"><a href="http://www.balkan-athletics.eu/2015/vrbovec2015.php" style="text-decoration:none;">Croatia hosted the Balkan Cross Country Championships in Vrbovec</a></p>
+    <div class="newsMain">
+    	<img src="2015/images/BXCH 2015 podium JW.jpg"><br>
+		<p>Croatian Athletic Federation hosted a Balkan event for the first time since their affiliation to ABAF in 2011. It was held in the city of Vrbovec, 40 km east from the capital Zagreb...</p>
+		<p style="text-align:right;"><a href="http://www.balkan-athletics.eu/2015/vrbovec2015.php">Read more</a></p>
+    </div>
+</div>
+<br /><img border="0" height="31" src="http://www.balkan-athletics.eu/images/banka-index-480-30.jpg" width="450"><br /><br />
+
+
+<div class="grayOutlineRounded">
+    <p class="content_title"><a href="http://www.balkan-athletics.eu/2015/tbilisi2015.php" style="text-decoration:none;">Balkan Athletes of the Year 2015</a></p>
+    <div class="newsMain">
+    	<img src="2015/images/Tuka & Spanovic Balkan Gala 2015.jpg"><br>
+		<p>Bronze medalists from the IAAF World Championships in Beijing, Bosnian 800m specialist Amel Tuka and Serbian long jumper Ivana Spanovic, who was also crowned European indoor champion earlier this year, have been named...</p>
+		<p style="text-align:right;"><a href="http://www.balkan-athletics.eu/2015/tbilisi2015.php">Read more</a></p>
+    </div>
+</div>
+<br /><img border="0" height="31" src="http://www.balkan-athletics.eu/images/banka-index-480-30.jpg" width="450"><br /><br />
+
+
+<div class="grayOutlineRounded">
     <p class="content_title"><a style="text-decoration:none;" href="http://www.balkan-athletics.eu/2015/podgorica2015.php">Balkan Marathon Championships Podgorica</a></p>
     <div class="newsMain">
         <p><a href="2015/pdf/Balkan Marathon Championships - Results.pdf" target="_blank">RESULTS</a></p>
