@@ -42,6 +42,33 @@
                     <hr width="40%" color="#0DB10F" size="1px"><br>
 
 <div class="grayOutlineRounded">
+
+<div class="important_item">
+            <a href="http://www.tekrumelitv.com/canli_yayin.php" target="_blank"><h1 style="text-align:center;">LIVE TV COVERAGE</h1></a>
+            <h3>You can watch the Balkan Indoor Championships Istanbul 2016 broadcasted live by Rumeli TV <a href="http://www.tekrumelitv.com/canli_yayin.php" target="_blank">here</a></h3>
+          </div>
+</div>
+<br /><img border="0" height="31" src="http://www.balkan-athletics.eu/images/banka-index-480-30.jpg" width="450"><br /><br />
+
+
+
+
+<div class="grayOutlineRounded">
+    <p class="content_title"><a href="#" style="text-decoration:none;">Balkan Indoor Championships</p>
+    <p>27 February 2016 Istanbul, Turkey</a></p>
+ 
+    <div class="newsMain">
+        <img src="2016/images/Balkan Indoors 2015.jpg"><br>
+        <p>Istanbul&#8217;s Atakoy Athletics Arena is hosting the Balkan Indoor Championships for the 5th time in a row since it first opened in 2012. </p>
+        <p>The best athletes from the 16 Balkan member federations will strive for top results. Two guest nations, Kosovo and Azerbaijan, will take part out-of-competition. The Balkan Indoor Championships give a perfect opportunity for the athletes to try and reach the entry standards for the World Indoors in Portland next month.</p>
+        <p>Competition Timetable can be found <a href="2016/pdf/BICh Timetable-2016.pdf" target="_blank">here.</a></p>
+        <img src="2016/images/9db95123-762c-4315-a8a2-849e6fce27bd.jpg"><br>
+    </div>
+</div>
+<br /><img border="0" height="31" src="http://www.balkan-athletics.eu/images/banka-index-480-30.jpg" width="450"><br /><br />
+
+
+<div class="grayOutlineRounded">
     <p class="content_title"><a href="http://www.balkan-athletics.eu/2015/vrbovec2015.php" style="text-decoration:none;">Croatia hosted the Balkan Cross Country Championships in Vrbovec</a></p>
     <div class="newsMain">
     	<img src="2015/images/BXCH 2015 podium JW.jpg"><br>
