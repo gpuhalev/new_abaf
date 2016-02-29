@@ -145,6 +145,15 @@ a{
 			width:98%;
 			 border: 1px solid rgba(0, 0, 0, .5);
 		}
+
+		.mainHidden{
+			display: none;
+		}
+
+		.readMoreMainHidden{
+			cursor: pointer;
+			text-decoration: underline;
+		}
 	/*END CONTENT_RELATED*/
 			  
 	#right_sidebar{

@@ -27,5 +27,17 @@ $(function(){
 				element.hide("fast", "linear");
 			}	
 		});
+
+		$(".readMoreMainHidden").click(function(){
+			var menuName = $(this).attr("name");
+			var element = $(".mainHidden[name=" + menuName + "]");
+			
+			if(element.css('display')=='none'){
+				element.show("fast", "linear");
+			}else{
+				element.hide("fast", "linear");
+			}	
+			$(this).hide("fast", "linear");
+		});
 		
 });
