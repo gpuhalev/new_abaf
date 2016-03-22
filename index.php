@@ -41,6 +41,107 @@
 	                <p class="content_mainTitle">News</p>
                     <hr width="40%" color="#0DB10F" size="1px"><br>
 
+
+
+
+<div class="grayOutlineRounded">
+
+<p class="content_title"><a href="#" style="text-decoration:none;">Balkan Athletics with 6 medals from Portland</a><h5><i>Pictures by gettyimages</i></h5></p>
+
+    <div class="newsMain">
+        
+        <p>The IAAF World Indoor Championships in Portland 17-20 March 2016 was very successful for the Balkan athletes.</p>
+        <img src="2016/images/4x400m women.jpg">
+        <div class="mainHidden" name="PortlandSuccess">
+            <p>Four of the ABAF Member Federations gained medals. Romania was best ranked in the medals table 18th place with the silver medal of Andrei Gag in Shot Put and the women&#39;s 4x400m relay.</p>
+            <img src="2016/images/Andrei Gag ROU.jpg">
+            <img src="2016/images/Ivana Spanovic SRB.jpg">
+            <p>Ivana Spanovic made an excellent long jump competition, improving twice the Serbian National record and winning the silver medal. Serbia is therefore placed on the 19th position in the medals table, followed by Greece which took two bronze medals by Ekaterini Stefanidi in Pole Vault and Paraskevi Papahristou. </p>
+            <img src="2016/images/Ekaterini Stefanidi GRE.jpg"><br>
+            <img src="2016/images/Paraskevi Papahristou GRE.jpg">
+            <p>There is a bronze medal for Croatia as well, won by Filip Mihaljevic in Shot Put.</p>
+            <img src="2016/images/Filip Mihaljevic CRO.jpg">
+        </div>
+        <div class="readMoreMainHidden" name="PortlandSuccess">
+            <p style="text-align:right;"><a>Read more</a></p>
+        </div>
+
+    </div>
+</div>
+
+<br /><img border="0" height="31" src="http://www.balkan-athletics.eu/images/banka-index-480-30.jpg" width="450"><br /><br />
+
+
+
+
+
+<div class="grayOutlineRounded">
+
+<p class="content_title"><a href="#" style="text-decoration:none;">Albanian Athletics can use the stadium in Elbasan</a></p>
+
+    <div class="newsMain">
+        
+        <p>Balkan Athletics President Dobromir Karamarinov visited Albania in line with his European Athletics Strategic communication group. He had a discussion with Armand Duka, President of Albanian Football Federation who is the owner of the new stadium in Elbasan. </p>
+        <img src="2016/images/ALB AthleticsFootball.jpg">
+        <div class="mainHidden" name="ElbasanArena">
+            <p>The football stadium has 8 lanes synthetic track and is fully equipped and certified for athletics. It was agreed that Albanian Athletic Federation will be granted free use of the facility for staging National and International competitions. </p>
+            <p><i>On the picture (from left to right): Nikolin Dionisi, Gerji Ruli (General Secretary and President of Albanian Athletic Federation), Dobromir Karamarinov, Armand Duka.</i></p>
+        </div>
+        <div class="readMoreMainHidden" name="ElbasanArena">
+            <p style="text-align:right;"><a>Read more</a></p>
+        </div>
+
+    </div>
+</div>
+
+<br /><img border="0" height="31" src="http://www.balkan-athletics.eu/images/banka-index-480-30.jpg" width="450"><br /><br />
+
+
+<div class="grayOutlineRounded">
+
+<div class="important_item">
+
+           <a href="http://www.balkan-athletics.eu/2016/curpija2016.php"><h1 style="text-align:center;">CANCELLATION of Balkan Cross Country Championships 2016</h1></a>
+            <h3 style="text-align:center;">Due to heavy raining and floods in Serbia, especially in the region of Cuprija, the championships has to be postponed.</h3>
+</div>
+          <div class="newsMain">
+        
+        <p>The weather forecast for the upcoming days is still very bad, therefore it is dangerous to try to organise a competition. All the teams who intended to travel to Serbia are kindly requested to cancel their plans. </p>
+
+<p>Serbian Athletic Federation and the city of Cuprija are not giving up from hosting the event however and are ready to organise it October or November 2016. The new date will be discussed and decided during the Balkan Senior Championships on 25-26 June in Pitesti.</p>
+
+ <img src="2016/images/cuprija floods.jpg">
+
+</div>
+</div>
+<br /><img border="0" height="31" src="http://www.balkan-athletics.eu/images/banka-index-480-30.jpg" width="450"><br /><br />
+
+
+<div class="grayOutlineRounded">
+
+<p class="content_title"><a style="text-decoration:none;">New athletics Indoor arena opens in Belgrade </a></p>
+
+    <div class="newsMain">
+        
+        <p>Serbian capital has now a brand newly indoor arena. It was officially inaugurated on Tuesday 1 March by Tomislav Nikolic, President of the Republic. The “Serbian Indoor Open” meeting was also held on this occasion which gathered the elite of the Serbian society and the Athletics family of Europe. </p>
+        <img src="2016/images/Inauguration Belgrade arena.jpg">
+        <div class="mainHidden" name="BelgradeArena">
+            <p>The opening ceremony was attended by (from left to right on the picture): Balkan Athletics President Dobromir Karamarinov, European Athletics President Svein Arne Hansen, President of the Athletics Federation of Serbia Veselin Jevrosimovic, Serbian President Tomislav Nikolic, Minister of Youth and Sports Vanja Udovicic, General Secretary of Serbian Athletic Federation Slobodan Brankovic, State Secretary of the Ministry of Defence Zoran Djordjevic, and the Mayor of Belgrade Sinisa Mali.</p>
+            <p>After the ceremony Dobromir Karamarinov and Svein Arne Hansen had a separate meeting with President Nikolic to discuss the challenges of the European Indoor Championships 2017 in Belgrade. Karamarinov is the European Athletics Delegate, assigned to follow directly the organisation of the event.</p>
+            <p>The new arena has 1500 seats and is entirely dedicated to athletics. It will be open for preparation all year round and is already housing the offices of Serbian Athletic Federation. It will serve as the training venue for the 2017 European Athletics Indoor Championships with the competition taking place at the 20,000 seats Kombank Arena.</p>
+
+        </div>
+        <div class="readMoreMainHidden" name="BelgradeArena">
+            <p style="text-align:right;"><a>Read more</a></p>
+        </div>
+
+
+    </div>
+</div>
+</div>
+<br /><img border="0" height="31" src="http://www.balkan-athletics.eu/images/banka-index-480-30.jpg" width="450"><br /><br />
+
+
 <div class="grayOutlineRounded">
 
     <p class="content_title"><a style="text-decoration:none;" href="http://www.balkan-athletics.eu/2016/istanbul2016.php">Balkan Indoors celebrate participation record</a></p>
