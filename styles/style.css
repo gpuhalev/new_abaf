@@ -16,6 +16,9 @@ div {
 a{
 	color:#008B02;
 }
+span.changed{
+	color:#008B02 !important;
+}
 
 /*MAIN PART*/
 

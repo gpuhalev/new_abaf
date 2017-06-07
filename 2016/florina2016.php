@@ -36,8 +36,25 @@
                 	<p class="content_smallTitle">16 April - Balkan Race Walking Championships<br>Florina</p>
                     <hr width="40%" color="#0DB10F" size="1px"><br>
                		<div class="newsMain">
-                        <p>Coming soon...</p>
-                    </div>
+
+ <p><a href="pdf/RESULTS 15th BALKAN RACE WALKING CHAMPIONSHIPS FLORINA 2016.pdf" target="_blank">RESULTS</a></p>
+  <p><a href="pdf/BRWC 2016_Lap Times.pdf" target="_blank">Lap Times</a></p>                     
+        <img src="images/Backdrop Florina.jpg">
+
+ 
+<p><a href="pdf/Balkan RW Championships 2016 Invitation.pdf" target="_blank">Invitation</a></p>
+
+        <p><a href="pdf/Florina BRW Ch 2016 Prelim entry form.docx" target="_blank">Preliminary Entry Form</a></p>
+
+        <p><a href="pdf/Florina BRWC 2016 Final Entry Form.xlsx" target="_blank">Final Entry Form</a></p>
+
+        <p><a href="pdf/Florina Competition Timetable to Teams  6.04.16.xlsx" target="_blank">Timetable</a></p>
+
+                    <hr width="40%" color="#0DB10F" size="1px"><br>
+ <img src="images/florina.jpg">
+                 
+
+  </div>
                 </div>
                 <!--END CONTENT WRAPPER-->
                     

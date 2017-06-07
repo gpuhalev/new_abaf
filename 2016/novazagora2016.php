@@ -33,10 +33,37 @@
             <!--START CONTENT WRAPPER -->
             <div id="content">
             	<div class="content_wrapper">
-                	<p class="content_smallTitle">11 June - Balkan Mountain Running Championships<br>Nova Zagora</p>
-                    <hr width="40%" color="#0DB10F" size="1px"><br>
+                	<p class="content_smallTitle">8 June - Balkan Mountain Running Championships<br>Nova Zagora</p>
+                    <hr width="40%" color="#0DB10F" size="1px">
+<br>
+
+<p><a href="pdf/BMRC 2016 results junior_women.pdf" target="_blank">RESULTS JUNIOR WOMEN</a></p>
+
+<p><a href="pdf/BMRC 2016 results junior_men.pdf" target="_blank">RESULTS JUNIOR MEN</a></p>
+
+<p><a href="pdf/BMRC 2016 results senior_women.pdf" target="_blank">RESULTS SENIOR WOMEN</a></p>
+
+
+<p><a href="pdf/BMRC 2016 results senior_men.pdf" target="_blank">RESULTS SENIOR MEN</a></p>
+
+<hr width="40%" color="#0DB10F" size="1px">
+<br>
+
                		<div class="newsMain">
-                        <p>Coming soon...</p>
+
+
+        <p><a href="pdf/Invitation & information BMRC 2016.pdf" target="_blank">Invitation</a></p>
+
+        <p><a href="pdf/BMRC2016Course Map & Profile.pdf" target="_blank">Course Map & Profile</a></p>
+
+        <p><a href="pdf/General Programme BMRC 2016.pdf" target="_blank">General Programme</a></p>
+
+  <hr width="40%" color="#0DB10F" size="1px"><br>
+ <img src="images/MR race Nova Zagora.jpg">
+
+  <hr width="40%" color="#0DB10F" size="1px"><br>
+ <img src="images/jrebchevo.jpg">
+
                     </div>
                 </div>
                 <!--END CONTENT WRAPPER-->

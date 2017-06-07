@@ -18,9 +18,9 @@
         
         
         <!--START HEADER-->     	
-        <?php include'../menus/header.html'?>
+        <?php include'menus/header.html'?>
  	
-    	<?php include'../menus/mainMenu.html'?>
+    	<?php include'menus/mainMenu.html'?>
 
       
         </div>

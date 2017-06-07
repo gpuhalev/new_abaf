@@ -1,6 +1,6 @@
 	<?php include 'menus/mainHeader.html'?>
     <link href="../styles/style.css" rel="stylesheet" type="text/css" media="screen" />
-    <title>BUCHAREST | BALKAN ATHLETICS OFFICIAL WEBSITE</title>
+    <title>SREMSKA MITROVICA | BALKAN ATHLETICS OFFICIAL WEBSITE</title>
 </head>
 
 <body>

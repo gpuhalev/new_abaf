@@ -225,7 +225,6 @@
                     </div>
 				</div>
 
-
 <div class="pic">
                 	<div class="picleft">
 	                	<a href="http://www.iaa.co.il" target="_blank"><img src="images/members/israel_flag.jpg"></a>
@@ -249,6 +248,33 @@
                         <a href="files/memberAnthems/hymne_isr.mp3" target="_blank">Download (mp3)</a>
                     </div>
 				</div>
+
+<div class="pic">
+                	<div class="picleft">
+	                	<a href="http://www.fakosova.org" target="_blank"><img src="images/members/kosovo_flag.jpg"></a>
+    	                <div class="desc">Kosovo</div>
+                    </div>
+                    <div class="picright">
+                    	Kosovo Athletic Federation<br>
+                        Agim Ramadani st.<br>
+House of Sport - No. 43<br>
+10000 Pristina<br>
+Kosovo<br>
+                                                <br />
+                        President: Halil SYLEJMANI<br>
+                        General Secretary: Andurrahman SHKODRA<br>
+                        <br>
+                        Tel: (381) 38 227 380<br>
+                        Fax: (38 38) 222 328<br>
+Mob: (377) 45 319 332<br>
+Mob: (377) 49 161 227<br>
+                        E-mail: fakosova@yahoo.com<br>
+                        <br>
+                        <strong>Anthem:</strong><br>
+                        <a href="files/memberAnthems/hymne_kos.mp3" target="_blank">Download (mp3)</a>
+                    </div>
+				</div>
+
 
 
               
@@ -335,16 +361,17 @@ Athletics Federation of Montenegro<span style="display:none">'</span><br>
                         2 Primo Nebiolo St.<br>
                         011349 Bucharest, Romania<br>
                         <br />
-                        President: Ion SANDU<br>
-                        General Secretary: Florin FLOREA<br>
+                        President: Florin FLOREA<br>
+                        General Secretary: Augustin IANCU<br>
                         <br>
                         Tel: (40 21) 319 24 45 (Office)<br>
                         Tel: (40 21) 319 24 46 (Office)<br>
                         Tel: (40 21) 319 24 47 (Pres.)<br>
                         Fax: (40 21) 319 24 43 (Int. Rel.)<br>
                         Fax: (373 22) 278 300<br>
-                        E-mail: sanduion@fra.ro  (President)<br>
-                        E-mail: office@fra.ro (Federation)<br>
+                        E-mail: office@fra.ro<br>
+                        E-mail: florin.florea@fra.ro<br>
+                        E-mail: augustin.iancu@fra.ro<br>
                                                 <br>
                         <strong>Anthem:</strong><br>
                         <a href="files/memberAnthems/hymne_rou.mp3" target="_blank">Download (mp3)</a>

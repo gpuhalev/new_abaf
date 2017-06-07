@@ -1,6 +1,6 @@
 	<?php include 'menus/mainHeader.html'?>
     <link href="../styles/style.css" rel="stylesheet" type="text/css" media="screen" />
-    <title>AYVALIK | BALKAN ATHLETICS OFFICIAL WEBSITE</title>
+    <title>BUSTENI | BALKAN ATHLETICS OFFICIAL WEBSITE</title>
 </head>
 
 <body>
